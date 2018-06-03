@@ -1,1 +1,110 @@
-theme: jekyll-theme-minimal
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Sean Higgins
+email: 
+description: > # 
+  Sean Higgins is a Post-Doctoral Fellow researching financial inclusion at the Center for Effective Global Action at the University of California, Berkeley.
+footer_text: #
+
+url: "http://localhost:4000" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: skhiggins # your GitHub user name
+twitter_username: SeanKHiggins # your Twitter handle
+linkedin_username: sean-higgins-6a126245 # your LinkedIn user name
+scholar_userid: DD4pBNwAAAAJ # your Google Scholar ID
+orcid_id: # your ORCID ID
+contact_note: #
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: al-folio
+blog_description: a simple whitespace theme for academics
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
+# Comments
+disqus_shortname: al-folio # put your disqus shortname
+
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+  projects:
+    defaults:
+      layout: post
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Includes
+include: ['_pages']
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Higgins
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
