@@ -1,6 +1,6 @@
 # Sean Higgins's academic website
 
-This repository contains source code for my academic website, seankhiggins.com.
+This repository contains source code for my academic website, www.seankhiggins.com.
 
 The website was created using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). 
 I found this Jekyll tutorial particularly useful: https://www.taniarascia.com/make-a-static-website-with-jekyll/.
