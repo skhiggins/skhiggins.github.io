@@ -35,6 +35,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 
 [How Debit Cards Enable the Poor to Save More](/assets/pdf/BachasGertlerHigginsSeira_DebitCards.pdf) (with [Pierre Bachas](http://pierrebachas.weebly.com/), [Paul Gertler](http://www.paulgertler.com/), and [Enrique Seira](http://www.enriqueseira.com/)). 
 NBER Working Paper 23252.
+- Media coverage: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
 
 [The Political Economy of Antipoverty Spending and Poverty Measurement](http://econ.tulane.edu/RePEc/pdf/tul1604r.pdf) 
 (with [Stefano Barbieri](http://econ.tulane.edu/profile_barbieri.shtml)).
