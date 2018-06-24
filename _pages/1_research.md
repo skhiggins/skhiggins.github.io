@@ -10,6 +10,16 @@ title: research
 (with [Pierre Bachas](http://pierrebachas.weebly.com/), [Paul Gertler](http://www.paulgertler.com/), and [Enrique Seira](http://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
 - [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
+- [My write-up](
+(
+https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
+of this paper and the AEA session I organized on financial inclusion
+- [My guest post](
+http://www.financialaccess.org/faiv/2018/1/26/cega-special-edition-a-bit-more-from-aea
+)
+for NYU Wagner's [Financial Access Initiative](
+http://www.financialaccess.org/
+) summarizing the AEA session
 	
 [Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](http://www.sciencedirect.com/science/article/pii/S0304387816300220) 
 (with [Nora Lustig](http://www.noralustig.org/)). 
