@@ -10,8 +10,7 @@ title: research
 (with [Pierre Bachas](http://pierrebachas.weebly.com/), [Paul Gertler](http://www.paulgertler.com/), and [Enrique Seira](http://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
 - [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
-- [My write-up](
-(
+- [Write-up](
 https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
 of this paper and the AEA session I organized on financial inclusion
 - [My guest post](
@@ -45,7 +44,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 
 [How Debit Cards Enable the Poor to Save More](/assets/pdf/BachasGertlerHigginsSeira_DebitCards.pdf) (with [Pierre Bachas](http://pierrebachas.weebly.com/), [Paul Gertler](http://www.paulgertler.com/), and [Enrique Seira](http://www.enriqueseira.com/)). 
 NBER Working Paper 23252.
-- Media coverage: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
+- Our write-up on [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
 
 [The Political Economy of Antipoverty Spending and Poverty Measurement](http://econ.tulane.edu/RePEc/pdf/tul1604r.pdf) 
 (with [Stefano Barbieri](http://econ.tulane.edu/profile_barbieri.shtml)).
