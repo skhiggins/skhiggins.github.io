@@ -15,7 +15,7 @@ My other code can be accessed on [GitHub](https://github.com/skhiggins/), includ
 
 `word2pdf` automates Microsoft Word document to pdf conversion.
 
-`crop_eps` crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
+`crop_eps` crops .eps files, used when you can't get the cropping just right in your statistical software.
 
 ### [R packages](https://github.com/skhiggins/tabulator)
 
