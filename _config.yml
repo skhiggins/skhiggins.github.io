@@ -7,7 +7,7 @@ description: > #
   Sean Higgins is a Post-Doctoral Fellow researching financial inclusion at the Center for Effective Global Action at the University of California, Berkeley.
 footer_text: #
 
-url: "https://skhiggins.github.io" # the base hostname & protocol for your site
+url: "//skhiggins.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
@@ -66,7 +66,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes
 include: ['_pages']

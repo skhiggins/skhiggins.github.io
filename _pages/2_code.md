@@ -39,7 +39,7 @@ To install directly through Stata:
 ssc install <package_name>, replace
 ```
 
-`ceq` is a [suite of commands](https://github.com/skhiggins/CEQStataPackage) to estimate fiscal incidence following the [Commitment to Equity](http://commitmentoequity.org/) framework.
+`ceq` is a [suite of commands](https://github.com/skhiggins/CEQStataPackage) to estimate fiscal incidence following the [Commitment to Equity](https://commitmentoequity.org/) framework.
 
 `exampleobs` prints (randomly selected) example observations and optionally stores the values in a local macro. This is useful to explore possible values of a variable in your data set without being biased by the ordering of the data.
 
