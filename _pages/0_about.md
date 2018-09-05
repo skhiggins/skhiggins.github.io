@@ -23,30 +23,17 @@ My research combines the fields of development economics and household finance. 
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
-<<<<<<< HEAD
-[CEGA-Visa Financial Inclusion Lab](https://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
-[Development Impact Lab/USAID](https://dil.berkeley.edu/), 
-[Digital Credit Observatory](https://www.digitalcreditobservatory.org/2017-grantees.html), 
-[Fisher Center for Business Analytics](https://businessanalytics.berkeley.edu/), 
-[Fulbright Program](https://us.fulbrightonline.org/), 
-[Innovations for Poverty Action](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
-=======
 [CEGA-Visa Financial Inclusion Lab](http://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
 [Development Impact Lab/USAID](https://dil.berkeley.edu/), 
 [Fisher Center for Business Analytics](https://businessanalytics.berkeley.edu/), 
 [Digital Credit Observatory](http://www.digitalcreditobservatory.org/2017-grantees.html), 
 [Fulbright Program](https://us.fulbrightonline.org/), 
 [Innovations for Poverty Action](http://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
->>>>>>> 3445714e3ed0501154a55070304d28218dbdbcde
 [Institute for Business Innovation](https://businessinnovation.berkeley.edu/), 
 [J-PAL](https://www.povertyactionlab.org/GPI), 
 National Science Foundation 
 ([doctoral dissertation grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530800&HistoricalAwards=false) 
-<<<<<<< HEAD
-and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false)), and 
-=======
 and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false), and 
->>>>>>> 3445714e3ed0501154a55070304d28218dbdbcde
 [UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) for research funding.
 
 {% for project in site.projects %}
