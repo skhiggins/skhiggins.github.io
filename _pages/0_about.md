@@ -17,23 +17,23 @@ news: false
 social: true
 ---
 
-I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](cega.berkeley.edu) at the University of California, Berkeley.
+I'm a Post-Doctoral Fellow at the Center for Effective Global Action at the University of California, Berkeley.
 
 My research combines the fields of development economics and household finance. I primarily study financial inclusion, or the impact of access to financial services for the poor.
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
-[CEGA-Visa Financial Inclusion Lab](https://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
+[CEGA-Visa Financial Inclusion Lab](http://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
 [Development Impact Lab/USAID](https://dil.berkeley.edu/), 
-[Digital Credit Observatory](https://www.digitalcreditobservatory.org/2017-grantees.html), 
 [Fisher Center for Business Analytics](https://businessanalytics.berkeley.edu/), 
+[Digital Credit Observatory](http://www.digitalcreditobservatory.org/2017-grantees.html), 
 [Fulbright Program](https://us.fulbrightonline.org/), 
-[Innovations for Poverty Action](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
+[Innovations for Poverty Action](http://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
 [Institute for Business Innovation](https://businessinnovation.berkeley.edu/), 
 [J-PAL](https://www.povertyactionlab.org/GPI), 
 National Science Foundation 
 ([doctoral dissertation grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530800&HistoricalAwards=false) 
-and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false)), and 
+and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false), and 
 [UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) for research funding.
 
 {% for project in site.projects %}
