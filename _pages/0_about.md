@@ -17,7 +17,7 @@ news: false
 social: true
 ---
 
-I'm a Post-Doctoral Fellow at the Center for Effective Global Action at the University of California, Berkeley.
+I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) at the University of California, Berkeley. _I am on the 2018-2019 job market._
 
 My research combines the fields of development economics and household finance. I primarily study financial inclusion, or the impact of access to financial services for the poor.
 

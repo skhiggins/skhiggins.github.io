@@ -4,12 +4,19 @@ permalink: /research/
 title: research
 ---
 
+### job market paper
+
+Financial Technology Adoption and Retail Competition
+
+- [Abstract](/research/jmp/)
+
 ### publications
 
 [Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](https://www.aeaweb.org/articles?id=10.1257/pandp.20181013) 
 (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
 - [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
+- Replication code: [README](/research/README.html); [zip]( https://www.aeaweb.org/doi/10.1257/pandp.20181013.data)
 - [Write-up](
 https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
 of this paper and the AEA session I organized on financial inclusion
@@ -52,6 +59,8 @@ NBER Working Paper 23252.
 ### work in progress
 ​
 The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). Draft coming soon.
+
+​Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/).
  
 [Digital Sales and Inventory Data to Assess Creditworthiness](https://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
