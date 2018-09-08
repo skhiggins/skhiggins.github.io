@@ -10,6 +10,7 @@ title: research
 (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
 - [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
+- Replication code: [readme](/assets/html/DigitalFinancialServices_README.html); [zip](https://www.aeaweb.org/doi/10.1257/pandp.20181013.data)
 - [Write-up](
 https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
 of this paper and the AEA session I organized on financial inclusion
