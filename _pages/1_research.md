@@ -9,17 +9,12 @@ title: research
 [Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](https://www.aeaweb.org/articles?id=10.1257/pandp.20181013) 
 (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
-- [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
 - Replication code: [readme](/assets/html/DigitalFinancialServices_README.html); [zip](https://www.aeaweb.org/doi/10.1257/pandp.20181013.data)
-- [Write-up](
-https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
-of this paper and the AEA session I organized on financial inclusion
-- [My guest post](
+- Summaries of AEA session I organized: [CEGA](
+https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c);
+[NYU Wagner's Financial Access Initiative](
 https://www.financialaccess.org/faiv/2018/1/26/cega-special-edition-a-bit-more-from-aea
 )
-for NYU Wagner's [Financial Access Initiative](
-https://www.financialaccess.org/
-) summarizing the AEA session
 	
 [Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](https://www.sciencedirect.com/science/article/pii/S0304387816300220) 
 (with [Nora Lustig](https://www.noralustig.org/)). 
