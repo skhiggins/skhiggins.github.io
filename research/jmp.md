@@ -1,8 +1,0 @@
----
-layout: page
-permalink: /research/jmp/
-title: Financial Technology Adoption and Retail Competition
----
-
-What are the general equilibrium effects of financial technology adoption in retail markets? I exploit a natural experiment that led to an exogenous expansion of debit cards over time and space, and study its effect on retail firms' adoption of technology to accept card payments, other consumers' subsequent debit card adoption, retailer profits and survival, and prices.
-Between 2009 and 2012, the Mexican government disbursed about one million debit cards as the new payment method for Mexico's large-scale conditional cash transfer program. I combine administrative data on the debit card rollout with a rich collection of Mexican microdata including the universe of point-of-sale (POS) terminal adoptions and card transactions, a panel of retailer profits, and household-by-product-by-store-type consumption and price data. I find that the shock to debit card adoption leads to a dynamic increase in fintech adoption on both sides of the market: small retailers (corner stores) adopt POS terminals to accept card payments, which has a spillover effect on card adoption by other consumers. There is no effect on POS adoption among store types that already had high levels of POS penetration, such as supermarkets. The corner stores experience significant increases in profits after adopting, but the debit card shock also leads to a higher probability that corner stores exit the market. The profits effect is driven by two mechanisms: first, richer consumers substitute 11% of their supermarket consumption to corner stores; second, corner stores are able to sustain a higher equilibrium price after adopting.
