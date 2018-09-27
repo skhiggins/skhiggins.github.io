@@ -8,24 +8,19 @@ title: research
 
 Financial Technology Adoption and Retail Competition
 
-- [Abstract](/research/jmp/)
+_Abstract_: How do retail firms and markets respond to consumers' financial technology adoption, and what are the spillover effects on other consumers? Since financial technologies have network externalities and adoption is endogenous, I exploit a natural experiment that caused exogenous shocks to the concentration of debit cards over time and space: between 2009 and 2012, the Mexican government disbursed about one million debit cards as the new payment method for Mexico's large-scale conditional cash transfer program. I combine administrative data on the debit card rollout with a rich collection of Mexican microdata including the universe of point-of-sale (POS) terminal adoptions and card transactions, household-by-product-by-store-type consumption data, and a panel of retailer profits. The shock to debit card adoption leads to a dynamic increase in fintech adoption on both sides of the market: small retailers (corner stores) adopt POS terminals to accept card payments, which has a spillover effect on card adoption by other consumers. There is no effect on POS adoption at supermarkets, which already had high levels of POS penetration. Rich customers respond to corner stores' adoption of POS terminals by substituting 11% of their supermarket consumption to corner stores, and as a result, corner stores are able to sustain a higher equilibrium price. The corner stores experience significant increases in profits after adopting, but the shock also leads to a higher probability that corner stores exit the market.
 
 ### publications
 
 [Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](https://www.aeaweb.org/articles?id=10.1257/pandp.20181013) 
 (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _AEA Papers & Proceedings_, 108, 444-448, 2018.
-- [Ungated version](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf)
-- Replication code: [README](/research/README.html); [zip]( https://www.aeaweb.org/doi/10.1257/pandp.20181013.data)
-- [Write-up](
-https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c)
-of this paper and the AEA session I organized on financial inclusion
-- [My guest post](
+- Replication code: [readme](/assets/html/DigitalFinancialServices_README.html); [zip](https://www.aeaweb.org/doi/10.1257/pandp.20181013.data)
+- Summaries of AEA session I organized: [CEGA](
+https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c);
+[NYU Wagner's Financial Access Initiative](
 https://www.financialaccess.org/faiv/2018/1/26/cega-special-edition-a-bit-more-from-aea
 )
-for NYU Wagner's [Financial Access Initiative](
-https://www.financialaccess.org/
-) summarizing the AEA session
 	
 [Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](https://www.sciencedirect.com/science/article/pii/S0304387816300220) 
 (with [Nora Lustig](https://www.noralustig.org/)). 
@@ -57,10 +52,10 @@ NBER Working Paper 23252.
 (with [Stefano Barbieri](https://econ.tulane.edu/profile_barbieri.shtml)).
 
 ### work in progress
-​
-The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). Draft coming soon.
 
-​Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/).
+The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). Draft coming soon.
+ 
+Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/). Draft coming soon.
  
 [Digital Sales and Inventory Data to Assess Creditworthiness](https://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
@@ -68,5 +63,4 @@ Pilot completed.
 ​  
 [Leveraging Government Transfers to Offer Low-Risk Microcredit in the Dominican Republic](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic) 
 (with [Frederico Finan](https://www.econ.berkeley.edu/faculty/816), Seth Garz, and [Paul Gertler](https://www.paulgertler.com/)). 
-Piloting stage.
-
+Randomization stage.
