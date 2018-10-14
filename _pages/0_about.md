@@ -20,7 +20,7 @@ social: true
 I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) at the University of California, Berkeley. **_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._**
 
 My research combines the fields of development economics and household finance. 
-My job market paper examines the general equilibrium effects of financial technology adoption in retail markets.
+My job market paper studies financial technology adoption with network externalities: specifically, I examine how retailers respond to consumers' fintech adoption, as well as spillover effects on other consumers.
 My other papers study financial inclusion, or the impact of access to financial services for the poor.
 
 I'm grateful to the 
