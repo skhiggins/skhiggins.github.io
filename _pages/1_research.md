@@ -57,7 +57,7 @@ The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Lin
  
 Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/). Draft coming soon.
  
-[Digital Sales and Inventory Data to Assess Creditworthiness](https://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
+[Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Pilot completed.  
 ​  
