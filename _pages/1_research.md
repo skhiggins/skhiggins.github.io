@@ -55,12 +55,16 @@ NBER Working Paper 23252.
 
 The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). Draft coming soon.
  
-Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/). Draft coming soon.
+Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
+
+[Leveraging Government Transfers to Offer Low-Risk Microcredit in the Dominican Republic](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic) 
+(with [Frederico Finan](https://www.econ.berkeley.edu/faculty/816), Seth Garz, and [Paul Gertler](https://www.paulgertler.com/)). 
+Randomization stage.
  
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Pilot completed.  
-​  
-[Leveraging Government Transfers to Offer Low-Risk Microcredit in the Dominican Republic](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic) 
-(with [Frederico Finan](https://www.econ.berkeley.edu/faculty/816), Seth Garz, and [Paul Gertler](https://www.paulgertler.com/)). 
-Randomization stage.
+
+[e-Payments](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
+(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
+Analysis of [iZettle Mexico](https://www.izettle.com/mx) administrative data under way and randomization to begin soon.
