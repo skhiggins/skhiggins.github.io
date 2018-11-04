@@ -20,8 +20,8 @@ social: true
 I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) at the University of California, Berkeley. **_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._**
 
 My research combines the fields of development economics and household finance. 
-My job market paper studies financial technology adoption with network externalities: specifically, I examine how retailers respond to consumers' fintech adoption, as well as spillover effects on other consumers.
-My other papers study financial inclusion, or the impact of access to financial services for the poor.
+My job market paper studies how microentrepreneurs respond to consumers' financial technology adoption and quantifies the spillover effects of fintech adoption on other consumers.
+My other working papers and works in progress study financial inclusion, or the impact of access to financial services--including access to credit, savings accounts, and fintech.
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
