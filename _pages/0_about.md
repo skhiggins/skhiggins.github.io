@@ -21,7 +21,7 @@ I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://ce
 
 My research combines the fields of development economics and household finance. 
 My job market paper studies how microentrepreneurs respond to consumers' financial technology adoption and quantifies the spillover effects of fintech adoption on other consumers.
-My other working papers and works in progress study financial inclusion, or the impact of access to financial services--including access to credit, savings accounts, and fintech.
+My other working papers and projects study financial inclusion, or the impact of access to financial services—including access to credit, savings accounts, and fintech.
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
