@@ -22,7 +22,7 @@ I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://ce
 **_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._** You can find my CV [here](assets/pdf/higgins.pdf) and job market paper [here](assets/pdf/higgins_jmp.pdf).
 
 My research combines the fields of household finance and development economics.
-My job market paper studies financial technology (FinTech) adoption. I study how retailers respond to consumers' adoption of a particular financial technology–debit cards–and how this supply-side response feeds back to the demand side, affecting other consumers' FinTech adoption and consumption decisions. 
+My job market paper studies financial technology (FinTech) adoption. I study how retailers respond to consumers' adoption of a particular financial technology—debit cards—and how this supply-side response feeds back to the demand side, affecting other consumers' FinTech adoption and consumption decisions. 
 My other working papers and projects study financial inclusion, or the impact of access to financial services—including access to credit, savings accounts, and FinTech.
 
 I'm grateful to the 
