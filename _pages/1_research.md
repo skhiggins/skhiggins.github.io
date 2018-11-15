@@ -6,7 +6,7 @@ title: research
 
 ### job market paper
 
-Financial Technology Adoption
+[Financial Technology Adoption](/assets/pdf/higgins_jmp.pdf)
 - <details open><summary>Abstract</summary><p>How do the supply and demand sides of the market respond to financial technology adoption? In this paper, I exploit a natural experiment that caused exogenous shocks to the adoption of a financial technology over time and space. Between 2009 and 2012, the Mexican government disbursed about one million debit cards as the new payment method for its conditional cash transfer program. I combine administrative data on the debit card rollout with a rich collection of Mexican microdata on both consumers and retailers. The shock to debit card adoption leads to a dynamic increase in financial technology adoption on both sides of the market: small retailers adopt point-of-sale (POS) terminals to accept card payments, which has a spillover effect on card adoption by other consumers, increasing the proportion of other consumers with debit cards by 21 percent. Richer consumers respond to corner stores' adoption of POS terminals by substituting 12 percent of their supermarket consumption to corner stores, resulting in an increase in corner store sales and profits.</p></details>
 
 ### publications

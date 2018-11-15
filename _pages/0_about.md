@@ -17,7 +17,9 @@ news: false
 social: true
 ---
 
-I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) and [Haas School of Business](https://haas.berkeley.edu/) at the University of California, Berkeley. **_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._**
+I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) and [Haas School of Business](https://haas.berkeley.edu/) at the University of California, Berkeley. 
+
+**_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._** You can find my CV [here](assets/pdf/higgins.pdf) and job market paper [here](assets/pdf/higgins_jmp.pdf).
 
 My research combines the fields of household finance and development economics.
 My job market paper studies financial technology (FinTech) adoption. I study how retailers respond to consumers' adoption of a particular financial technology–debit cards–and how this supply-side response feeds back to the demand side, affecting other consumers' FinTech adoption and consumption decisions. 
