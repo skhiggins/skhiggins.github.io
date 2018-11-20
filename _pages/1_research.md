@@ -59,6 +59,7 @@ NBER Working Paper 23252.
 ### work in progress
  
 Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
+- [Slides](/assets/pdf/IDE_Presentation.pdf)
 
 [Leveraging Government Transfers to Offer Low-Risk Microcredit in the Dominican Republic](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic) 
 (with [Frederico Finan](https://www.econ.berkeley.edu/faculty/816), Seth Garz, and [Paul Gertler](https://www.paulgertler.com/)). 
