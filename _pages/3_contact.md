@@ -7,6 +7,10 @@ description:
 social: true
 ---
 
+### phone 
+ 
++1 (520) 305-1800
+
 ### email
 
 My first name followed by my last name at berkeley.edu
