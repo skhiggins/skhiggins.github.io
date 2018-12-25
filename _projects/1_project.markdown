@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transaction Costs and Financial Inclusion
+title: Financial Technology Adoption
 description: 
-img: /assets/img/cuernavaca_atms.png
-redirect: https://www.aeaweb.org/articles?id=10.1257/pandp.20181013
+img: /assets/img/map_pos_2016_square.jpg
+redirect: /assets/pdf/higgins_jmp.pdf
 ---

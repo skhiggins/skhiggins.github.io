@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Inventory and Sales Data for Credit
+title: Transaction Costs and Financial Inclusion
 description: 
-img: /assets/img/colmados_square.jpg
-redirect: https://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/
+img: /assets/img/cuernavaca_atms.png
+redirect: https://www.aeaweb.org/articles?id=10.1257/pandp.20181013
 ---
