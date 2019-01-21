@@ -35,7 +35,7 @@ devtools::install_github("skhiggins/tabulator")
 ### [Stata packages](https://github.com/skhiggins/StataTools)
 
 To install directly through Stata:
-```
+```stata
 ssc install <package_name>, replace
 ```
 
@@ -47,7 +47,7 @@ ssc install <package_name>, replace
 
 `head` prints the head observations (first observations in data set) and mimics the `head()` function in R and `head` command in Linux.
 
-`randomselect` randomly selects observations and marks them with a dummy variable. It differs from sample in that it does not drop the non-selected observations from the data set, and that either individual observations or other units, defined by a variable in the data set, can be randomly selected.
+`randomselect` randomly selects observations and marks them with a dummy variable. It differs from `sample` in that it does not drop the non-selected observations from the data set, and that either individual observations or other units, defined by a variable in the data set, can be randomly selected.
 
 `tail` prints the tail observations (last observations in data set) and mimics the `tail()` function in R and `tail` command in Linux.
 ​
