@@ -71,5 +71,5 @@ Pilot completed.
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Analysis of [iZettle Mexico](https://www.izettle.com/mx) administrative data under way and randomization to begin soon.
 
-[Gender-Differentiated Digital Credit Algorithms Using Machine Learning](http://www.digitalcreditobservatory.org/gender-differentiated-digital-credit-algorithms-using-machine-learning.html)
+[Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).

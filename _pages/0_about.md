@@ -21,8 +21,8 @@ I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://ce
 
 **_I am on the 2018-2019 job market and will be available for interviews at the ASSA meetings in Atlanta._** You can find my CV [here](assets/pdf/higgins.pdf) and job market paper [here](assets/pdf/higgins_jmp.pdf).
 
-My [research](research/) studies entrepreneurial and household finance, particularly in emerging markets (where credit market frictions are more prevalent).
-My [job market paper](assets/pdf/higgins_jmp.pdf) studies financial technology adoption. I study the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
+My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms.
+My [job market paper](assets/pdf/higgins_jmp.pdf) studies financial technology adoption: I study the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
 My other working papers and projects study FinTech and the impact of access to entrepreneurial and household finance.
 
 I'm grateful to the 
