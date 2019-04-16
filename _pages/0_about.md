@@ -19,7 +19,7 @@ social: true
 
 I'm a Post-Doctoral Fellow at the [Center for Effective Global Action](http://cega.berkeley.edu) and [Haas School of Business](https://haas.berkeley.edu/) at the University of California, Berkeley. 
 
-I'll be an Assistant Professor of Finance at Northwestern University's Kellogg School of Management starting in July 2020, after a one-year Post-Doctoral Fellowship in Household Finance at the National Bureau for Economic Research.
+I'll be an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University starting in July 2020, after a one-year Post-Doctoral Fellowship in Household Finance at the [National Bureau of Economic Research](https://www.nber.org/).
 
 My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms.
 My [job market paper](assets/pdf/higgins_jmp.pdf) studies financial technology adoption: I study the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
