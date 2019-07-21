@@ -13,16 +13,10 @@ social: true
 
 ### email
 
-My first name followed by my last name at berkeley.edu
+sean (dot) higgins (at) kellogg (dot) northwestern (dot) edu
 ​
 ### snail mail
 
-Center for Effective Global Action  
-Giannini 207  
-UC Berkeley  
-Berkeley, CA 94720
+1050 Massachusetts Ave.
+Cambridge, MA 02138
 ​
-### in person
-
-Haas F635  
-UC Berkeley
