@@ -45,7 +45,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 ### working papers
 
 [How Debit Cards Enable the Poor to Save More](/assets/pdf/BachasGertlerHigginsSeira_DebitCards.pdf) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-NBER Working Paper 23252.
+Revise and resubmit, _Journal of Finance_. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards are given to cash transfer recipients who already have a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulate a savings stock equal to 2 percent of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms: first, debit cards reduce transaction costs of accessing money; second, they reduce monitoring costs, leading beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
 - Summary: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
 
@@ -58,10 +58,6 @@ NBER Working Paper 23252.
 Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
 - <details><summary>Abstract</summary><p>Economies are increasingly becoming cashless. Since cash is an anonymous transaction technology, this trend presents an opportunity to reduce informal sector activities and increase tax compliance. Whether governments should encourage the transition towards cashless technologies depends on the elasticity of firms' behavior with respect to the price of cash. We combine panel data on over 300,000 bank clients with a natural experiment in Mexico which repealed a tax of 3% on cash deposits. We show that entrepreneurs and small firms increase cash usage by over 20% following the repeal of the tax. The effect stems primarily from substitution away from modern deposit methods (e.g., electronic and online deposits), with limited evidence of a small increase in total deposits. While the mix of cash versus modern deposit technologies is very elastic to relative prices, total deposits appear inelastic, suggesting limited tensions between governments' tax compliance objectives and financial inclusion.</p></details>
 - [Slides](/assets/pdf/IDE_Presentation.pdf)
-
-[Leveraging Government Transfers to Offer Low-Risk Microcredit in the Dominican Republic](https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic) 
-(with [Frederico Finan](https://www.econ.berkeley.edu/faculty/816), Seth Garz, and [Paul Gertler](https://www.paulgertler.com/)). 
-Randomization stage.
  
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
