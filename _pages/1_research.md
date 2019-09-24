@@ -58,14 +58,14 @@ Revise and resubmit, _Journal of Finance_.
 Bank Non-Secrecy: Taxation and Financial Service Use in Mexico (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
 - <details><summary>Abstract</summary><p>Economies are increasingly becoming cashless. Since cash is an anonymous transaction technology, this trend presents an opportunity to reduce informal sector activities and increase tax compliance. Whether governments should encourage the transition towards cashless technologies depends on the elasticity of firms' behavior with respect to the price of cash. We combine panel data on over 300,000 bank clients with a natural experiment in Mexico which repealed a tax of 3% on cash deposits. We show that entrepreneurs and small firms increase cash usage by over 20% following the repeal of the tax. The effect stems primarily from substitution away from modern deposit methods (e.g., electronic and online deposits), with limited evidence of a small increase in total deposits. While the mix of cash versus modern deposit technologies is very elastic to relative prices, total deposits appear inelastic, suggesting limited tensions between governments' tax compliance objectives and financial inclusion.</p></details>
 - [Slides](/assets/pdf/IDE_Presentation.pdf)
+
+[e-Payments](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
+Randomized pilot completed; full randomized control trial to begin soon.
  
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Pilot completed.  
-
-[e-Payments](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
-(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Analysis of [iZettle Mexico](https://www.izettle.com/mx) administrative data under way and randomization to begin soon.
 
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
