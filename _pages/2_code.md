@@ -5,7 +5,7 @@ title: code
 description: 
 ---
 
-My replication code and data can be accessed on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/seanhiggins).
+For replication code, see the [research](research/) tab.
 
 My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below).
 
@@ -29,8 +29,7 @@ devtools::install_github("skhiggins/tabulator")
 `tabulator` includes the following functions:
 - `tab()` efficiently tabulates based on a categorical variable, sorts from most common to least common, and displays the proportion of observations with each value, as well as the cumulative proportion.
 - `tabcount()` counts the unique number of categories of a categorical variable or formed by a combination of categorical variables.
-- `quantiles()` produces quantiles of a variable. It is a wrapper for base R `quantile()` but is easier to use within `data.table`s or `tibble`s.
-- `quo_to_chr()` works under the hood, converting a quosure to a character string.
+- `quantiles()` produces quantiles of a variable. It is a wrapper for `base::quantile()` but is easier to use, especially within `data.table`s or `tibble`s.
 
 ### [Stata packages](https://github.com/skhiggins/StataTools)
 
