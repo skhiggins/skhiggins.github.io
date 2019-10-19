@@ -5,7 +5,7 @@ title: code
 description: 
 ---
 
-For replication code, see the [research](research/) tab.
+For replication code, see the [research](../research/) tab.
 
 My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below).
 
