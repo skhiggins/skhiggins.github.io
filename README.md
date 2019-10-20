@@ -1,6 +1,6 @@
 # Sean Higgins's academic website
 
-This repository contains source code for my academic website, www.seankhiggins.com.
+This repository contains source code for my academic website, https://seankhiggins.com.
 
 The website was created using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). 
 Some useful resources:
@@ -12,4 +12,4 @@ The theme is modified off of academic and portfolio themes, specifically the [al
 
 ## License
 
-Code for the Jekyll theme (all `.md`, `.html`, `.scss` files) is MIT license. This license applies to all code, but not to published papers or photos included in this repository.
+Code for the Jekyll theme (all `.md`, `.html`, `.scss` files) is MIT license. This license applies to all code, but not to papers or photos included in this repository.
