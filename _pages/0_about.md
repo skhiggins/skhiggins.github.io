@@ -31,8 +31,10 @@ I'm grateful to the
 [Innovations for Poverty Action](http://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
 National Science Foundation 
 ([doctoral dissertation grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530800&HistoricalAwards=false) 
-and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false)), and 
-[UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) for research funding.
+and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false)), 
+[UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) 
+and [USAID](https://www.usaid.gov/sites/default/files/documents/15396/ClosingGenderDigitalDivide_Round1.pdf)
+for research funding.
 
 {% for project in site.projects %}
 
