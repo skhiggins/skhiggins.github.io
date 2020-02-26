@@ -59,13 +59,19 @@ Revise and resubmit, _Journal of Finance_.
 Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mexican Firms (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
 - <details><summary>Abstract</summary><p>Economies are increasingly becoming cashless. Since cash is an anonymous transaction technology, this trend presents an opportunity to increase tax compliance and reduce criminal activity. Whether governments should encourage the transition towards digital payment technologies depends on the elasticity of firms' behavior with respect to the costs of cash vs. other payment technologies. We exploit two natural experiments to estimate this elasticity. First, in 2014 the Mexican government repealed a tax on cash deposits above a threshold. Second, a large commercial bank in Mexico imposes a notch in its fee structure for firms accepting card payments using point-of-sale (POS) terminals. Using data from a large commercial bank on (i) monthly deposits of a sample of firms and (ii) 3.5 billion card transactions from the universe of firms with POS terminals from that bank, we estimate firms' elasticity between payment/deposit technologies. We find that firms are highly elastic to the cost of using cash through the formal financial system, but mostly substitute to keeping cash on hand rather than to electronic payment technologies. This implies that the transaction costs of digital payment technologies are an important barrier to implementing policies that encourage the transition towards a cashless economy.</p></details>
 
-[e-Payments](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
-(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Randomized pilot completed; full randomized control trial to begin soon.
- 
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Pilot completed.  
+Randomized control trial under way.
+
+[Do Firms’ Behavioral Biases Delay the Adoption of Profitable Business Practices?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
+Randomized pilot completed; full randomized control trial to begin soon.
+
+Price Comparison Tools in Consumer Credit Markets (with 
+Erik Berwart, 
+[Sheisha Kulkarni](https://www.sheishakulkarni.com/),
+and [Santiago Truffa](https://santiagotruffa.cl/)
+). Randomized pilot under way.
 
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
