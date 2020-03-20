@@ -19,8 +19,7 @@ social: true
 
 I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University and a Post-Doctoral Fellow in Household Finance at the [National Bureau of Economic Research](https://www.nber.org/).
 
-My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms.
-My [job market paper](assets/pdf/higgins_jmp.pdf) studies financial technology adoption: I study the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
+My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms. For example, in [one paper](assets/pdf/higgins_jmp.pdf) I study financial technology adoption and quantify the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
 My other working papers and projects study FinTech and the impact of access to entrepreneurial and household finance.
 
 I'm grateful to the 
