@@ -67,11 +67,12 @@ Randomized pilot completed; full randomized control trial to begin soon.
 Price Comparison Tools in Consumer Credit Markets (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
-and [Santiago Truffa](https://santiagotruffa.cl/)
-). Randomized pilot under way.
+and [Santiago Truffa](https://santiagotruffa.cl/)). 
+Randomized pilot under way.
 
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
-- Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/) 
+- Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
+[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/).
 
 
