@@ -7,7 +7,7 @@ title: research
 ### working papers
 
 [How Debit Cards Enable the Poor to Save More](/assets/pdf/BachasGertlerHigginsSeira_DebitCards.pdf) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-Revised and resubmitted, _Journal of Finance_. 
+Conditionally accepted, _Journal of Finance_. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards are given to cash transfer recipients who already have a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulate a savings stock equal to 2 percent of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms: first, debit cards reduce transaction costs of accessing money; second, they reduce monitoring costs, leading beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
 - Summary: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
 
