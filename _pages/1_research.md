@@ -4,22 +4,12 @@ permalink: /research/
 title: research
 ---
 
-### working papers
+### publications
 
 [How Debit Cards Enable the Poor to Save More](/assets/pdf/BachasGertlerHigginsSeira_DebitCards.pdf) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-Conditionally accepted, _Journal of Finance_. 
+_Journal of Finance_, forthcoming. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards are given to cash transfer recipients who already have a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulate a savings stock equal to 2 percent of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms: first, debit cards reduce transaction costs of accessing money; second, they reduce monitoring costs, leading beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
 - Summary: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
-
-[Financial Technology Adoption](/assets/pdf/higgins_jmp.pdf)
-- <details><summary>Abstract</summary><p>How do the supply and demand sides of the market respond to financial technology adoption? In this paper, I exploit a natural experiment that caused exogenous shocks to the adoption of a financial technology over time and space. Between 2009 and 2012, the Mexican government disbursed about one million debit cards to existing beneficiaries of its conditional cash transfer program. I combine administrative data on the debit card rollout with a rich collection of Mexican microdata on both consumers and retailers. The shock to debit card adoption has spillover effects on financial technology adoption on both sides of the market: small retailers adopt point-of-sale (POS) terminals to accept card payments, which leads other consumers to adopt cards. Specifically, the number of other consumers with debit cards increases by 21 percent. Richer consumers respond to corner stores' adoption of POS terminals by substituting 12 percent of their supermarket consumption to corner stores. Finally, I use microdata on store prices, store geocoordinates, and consumer choices across store types to estimate the consumer gains from the demand-side policy's effect on supply-side POS adoption.</p></details>
-- Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
-
-[The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, take-up of no-fee formal savings accounts is low among the poor. Surprisingly, even after opening a savings account, use of the account is often low. In a large randomized experiment across 110 bank branches throughout Mexico, we provide a temporary incentive to both open and use a savings account: we offer prize-linked savings accounts with cash-prize lotteries, where lottery tickets are awarded as a function of savings balances. We find that 41% more accounts are opened in treatment branches than in control branches on average, and the number of accounts opened in treatment branches increases steadily over time while the lotteries were being offered. Although the incentive to save is temporary as lotteries are only offered for two months, the new accounts continue to be used over time. After five years, clients who opened accounts in response to the lottery continue saving and making transactions at the same rates as those who opened accounts in control branches during the same months.</p></details>
-- Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
-
-### publications
 
 [Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](https://www.aeaweb.org/articles?id=10.1257/pandp.20181013) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). _American Economic Association Papers & Proceedings_, 108, 444-448, 2018.
 - <details><summary>Abstract</summary><p>Debit cards reduce the travel distance to access bank accounts and can increase financial inclusion. We show that in Mexico, cash transfer beneficiaries who already received their transfers in bank accounts and subsequently received debit cards reduce their median distance to access the account from 4.8 to 1.3 kilometers. They also report being less likely to forgo important activities (childcare, work) to withdraw their transfers. Using account level data, we find a strong correlation between the reduction in travel distance and financial activity: beneficiaries facing the largest reductions in distance increase both their number of withdrawals and their savings balances.</p></details>
@@ -37,6 +27,7 @@ _Journal of Development Economics_ 122, 63-75, 2016.
 - [Replication code and data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2EIXNO)
 - Media coverage: [Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/19/the-worlds-leading-development-economists-cant-agree-on-how-to-tackle-inequality/)
 
+<!---
 [Comparing the Incidence of Taxes and Social Spending in Brazil and the United States](https://onlinelibrary.wiley.com/doi/10.1111/roiw.12201/abstract) 
 (with [Nora Lustig](https://www.noralustig.org/), 
 [Whitney Ruble](https://sites.google.com/site/whitneyrublebross/home), and 
@@ -50,6 +41,17 @@ _Public Finance Review_ 42, 346-67, 2014.
 	[Bloomberg Businessweek](https://www.bloomberg.com/news/articles/2014-12-15/why-raising-taxes-on-the-rich-wont-fix-global-inequality); 
 	[Folha de São Paulo](https://www1.folha.uol.com.br/fsp/opiniao/155081-injustica-tributaria.shtml); 
 	[Le Monde](https://www.lemonde.fr/economie/article/2013/04/02/comment-la-fiscalite-et-les-depenses-sociales-reduisent-les-inegalites_3151930_3234.html)
+--->
+
+### working papers
+
+[Financial Technology Adoption](/assets/pdf/higgins_jmp.pdf)
+- <details><summary>Abstract</summary><p>How do the supply and demand sides of the market respond to financial technology adoption? In this paper, I exploit a natural experiment that caused exogenous shocks to the adoption of a financial technology over time and space. Between 2009 and 2012, the Mexican government disbursed about one million debit cards to existing beneficiaries of its conditional cash transfer program. I combine administrative data on the debit card rollout with a rich collection of Mexican microdata on both consumers and retailers. The shock to debit card adoption has spillover effects on financial technology adoption on both sides of the market: small retailers adopt point-of-sale (POS) terminals to accept card payments, which leads other consumers to adopt cards. Specifically, the number of other consumers with debit cards increases by 21 percent. Richer consumers respond to corner stores' adoption of POS terminals by substituting 12 percent of their supermarket consumption to corner stores. Finally, I use microdata on store prices, store geocoordinates, and consumer choices across store types to estimate the consumer gains from the demand-side policy's effect on supply-side POS adoption.</p></details>
+- Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
+
+[The Long-Term Effects of Temporary Incentives to Save: Evidence from a Prize-Linked Savings Field Experiment](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
+- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, take-up of no-fee formal savings accounts is low among the poor. Surprisingly, even after opening a savings account, use of the account is often low. In a large randomized experiment across 110 bank branches throughout Mexico, we provide a temporary incentive to both open and use a savings account: we offer prize-linked savings accounts with cash-prize lotteries, where lottery tickets are awarded as a function of savings balances. We find that 41% more accounts are opened in treatment branches than in control branches on average, and the number of accounts opened in treatment branches increases steadily over time while the lotteries were being offered. Although the incentive to save is temporary as lotteries are only offered for two months, the new accounts continue to be used over time. After five years, clients who opened accounts in response to the lottery continue saving and making transactions at the same rates as those who opened accounts in control branches during the same months.</p></details>
+- Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
 
 ### work in progress
  
