@@ -7,7 +7,7 @@ description:
 
 For replication code, see the [research](../research/) tab.
 
-My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below).
+My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide).
 
 ### [Python packages](https://github.com/skhiggins/PythonTools/)
 
@@ -17,9 +17,11 @@ My other code can be accessed on [GitHub](https://github.com/skhiggins/), includ
 
 `crop_eps` crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
 
-### [R packages](https://github.com/skhiggins/tabulator)
+### [R]
 
-`tabulator` efficiently tabulates and produces Stata `tabulate`-like output. 
+[R Guide](https://github.com/skhiggins/R_guide)
+
+[`tabulator`](https://github.com/skhiggins/tabulator) efficiently tabulates and produces Stata `tabulate`-like output. 
 
 To install `tabulator` directly through R:
 ```r 
@@ -31,7 +33,7 @@ devtools::install_github("skhiggins/tabulator")
 - `tabcount()` counts the unique number of categories of a categorical variable or formed by a combination of categorical variables.
 - `quantiles()` produces quantiles of a variable. It is a wrapper for `base::quantile()` but is easier to use, especially within `data.table`s or `tibble`s.
 
-### [Stata packages](https://github.com/skhiggins/StataTools)
+### [Stata](https://github.com/skhiggins/StataTools)
 
 To install directly through Stata:
 ```stata
