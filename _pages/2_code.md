@@ -17,9 +17,9 @@ My other code can be accessed on [GitHub](https://github.com/skhiggins/), includ
 
 `crop_eps` crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
 
-### [R]
+### R
 
-[R Guide](https://github.com/skhiggins/R_guide)
+[R Guide](https://github.com/skhiggins/R_guide) to use with collaborators and research assistants to make code consistent, easier to read, transparent, and reproducible.
 
 [`tabulator`](https://github.com/skhiggins/tabulator) efficiently tabulates and produces Stata `tabulate`-like output. 
 
