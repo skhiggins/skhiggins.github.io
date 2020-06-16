@@ -9,7 +9,7 @@ For replication code, see the [research](../research/) tab.
 
 My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide).
 
-### [Python packages](https://github.com/skhiggins/PythonTools/)
+### [Python](https://github.com/skhiggins/PythonTools/)
 
 `get_files` automates downloading files from a website using web scraping when you provide it with a url and the file extensions to scrape.
 
@@ -17,11 +17,11 @@ My other code can be accessed on [GitHub](https://github.com/skhiggins/), includ
 
 `crop_eps` crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
 
-### R
+### [R](https://github.com/skhiggins/tabulator)
 
 [R Guide](https://github.com/skhiggins/R_guide) to use with collaborators and research assistants to make code consistent, easier to read, transparent, and reproducible.
 
-[`tabulator`](https://github.com/skhiggins/tabulator) efficiently tabulates and produces Stata `tabulate`-like output. 
+[tabulator](https://github.com/skhiggins/tabulator) efficiently tabulates and produces Stata `tabulate`-like output. 
 
 To install `tabulator` directly through R:
 ```r 
