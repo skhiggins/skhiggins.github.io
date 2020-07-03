@@ -17,11 +17,12 @@ news: false
 social: true
 ---
 
-I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University and a Post-Doctoral Fellow in Household Finance at the [National Bureau of Economic Research](https://www.nber.org/).
+I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
 My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms. For example, in [one paper](assets/pdf/higgins_jmp.pdf) I study financial technology adoption and quantify the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
-My other working papers and projects study FinTech and the impact of access to entrepreneurial and household finance.
+My other working papers and projects study FinTech, entrepreneurial finance, and household finance in emerging markets.
 
+<!---
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
 [CEGA-Visa Financial Inclusion Lab](http://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
@@ -34,6 +35,7 @@ and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&Hi
 [UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) 
 and [USAID](https://www.usaid.gov/sites/default/files/documents/15396/ClosingGenderDigitalDivide_Round1.pdf)
 for research funding.
+--->
 
 {% for project in site.projects %}
 
