@@ -27,6 +27,7 @@ I'm grateful to the
 [CEGA-Visa Financial Inclusion Lab](http://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
 [Digital Credit Observatory](http://www.digitalcreditobservatory.org/2017-grantees.html), 
 [Fulbright Program](https://us.fulbrightonline.org/), 
+Guthrie Center for Real Estate Research,
 [Innovations for Poverty Action](http://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
 Inter-American Development Bank,
 J-PAL,
