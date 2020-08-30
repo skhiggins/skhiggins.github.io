@@ -26,6 +26,7 @@ I'm grateful to the
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
 [CEGA-Visa Financial Inclusion Lab](http://cega.berkeley.edu/assets/cega_programs/8/FIL_RFP_Press_Release.pdf), 
 [Digital Credit Observatory](http://www.digitalcreditobservatory.org/2017-grantees.html), 
+[Facebook](https://research.fb.com/blog/2020/08/announcing-the-winners-of-the-economic-impact-of-digital-technologies-request-for-proposals/),
 [Fulbright Program](https://us.fulbrightonline.org/), 
 Guthrie Center for Real Estate Research,
 [Innovations for Poverty Action](http://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic), 
@@ -34,6 +35,7 @@ J-PAL,
 National Science Foundation 
 ([doctoral dissertation grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530800&HistoricalAwards=false) 
 and [standard grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1758837&HistoricalAwards=false)), 
+[Think Forward Initiative](https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making),
 [UN Foundation](https://www.data2x.org/big-data-challenge-awards/#credit) 
 and [USAID](https://www.usaid.gov/sites/default/files/documents/15396/ClosingGenderDigitalDivide_Round1.pdf)
 for research funding.

@@ -7,9 +7,11 @@ description:
 
 For replication code, see the [research](../research/) tab.
 
-My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide).
+My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide) and [Python Guide](https://github.com/skhiggins/Python_guide).
 
 ### [Python](https://github.com/skhiggins/PythonTools/)
+
+[Python Guide](https://github.com/skhiggins/Python_guide) to use with collaborators and research assistants to make Python code consistent, easier to read, transparent, and reproducible.
 
 `get_files` automates downloading files from a website using web scraping when you provide it with a url and the file extensions to scrape.
 
@@ -19,7 +21,7 @@ My other code can be accessed on [GitHub](https://github.com/skhiggins/), includ
 
 ### [R](https://github.com/skhiggins/tabulator)
 
-[R Guide](https://github.com/skhiggins/R_guide) to use with collaborators and research assistants to make code consistent, easier to read, transparent, and reproducible.
+[R Guide](https://github.com/skhiggins/R_guide) to use with collaborators and research assistants to make R code consistent, easier to read, transparent, and reproducible.
 
 [tabulator](https://github.com/skhiggins/tabulator) efficiently tabulates and produces Stata `tabulate`-like output. 
 
