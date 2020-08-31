@@ -17,8 +17,8 @@ sean (dot) higgins (at) kellogg (dot) northwestern (dot) edu
 ​
 ### snail mail
 
-Department of Finance
-Kellogg School of Management
-Northwestern University
-2211 Campus Drive
-Evanston, IL 60208
+Department of Finance  
+Kellogg School of Management  
+Northwestern University  
+2211 Campus Drive  
+Evanston, IL 60208  
