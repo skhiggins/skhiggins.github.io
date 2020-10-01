@@ -20,7 +20,7 @@ social: true
 I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
 My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms. For example, in [one paper](assets/pdf/higgins_jmp.pdf) I study financial technology adoption and quantify the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
-My other papers and projects study FinTech, entrepreneurial finance, and household finance in emerging markets.
+My other papers and projects study FinTech, household finance, and small firms in developing countries.
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
