@@ -66,9 +66,10 @@ Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mex
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial under way.
 
-[Do Firms’ Behavioral Biases Delay the Adoption of Profitable Business Practices?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+[Why Are Firms Slow to Adopt Profitable Business Practices? Evidence on the Roles of Present Bias, Forgetfulness, and Overconfidence about Memory](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial under way.
+- [RCT registration](https://www.socialscienceregistry.org/trials/6540)
 
 [Price Comparison Tools in Consumer Credit Markets](https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making) (with 
 Erik Berwart, 
