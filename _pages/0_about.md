@@ -19,6 +19,8 @@ social: true
 
 I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
+_I am currently hiring full-time empirical research associates_. More details and the link to apply are [here](https://kellogg.qualtrics.com/jfe/form/SV_ebXOK87Gy0wneZL); some additional details in this [thread](https://twitter.com/SeanKHiggins/status/1321925125399302145).
+
 My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms. For example, in [one paper](assets/pdf/higgins_jmp.pdf) I study financial technology adoption and quantify the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
 My other papers and projects study FinTech, household finance, and small firms in developing countries.
 
