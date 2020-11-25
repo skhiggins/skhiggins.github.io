@@ -54,22 +54,26 @@ _Public Finance Review_ 42, 346-67, 2014.
 - PBCSF Award for the Best Paper in Fintech, WFA 2020
 
 [Increasing Financial Inclusion and Attracting Deposits through Prize-Linked Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, we provide a temporary incentive to both open and use a savings account: saving earns raffle tickets for cash prizes. We find that 41\% more accounts are opened in treatment branches than control branches during the incentive months, and the temporary two-month incentive has a lasting three-year impact on the number of deposits made at treatment branches. Prize-linked savings can thus benefit both poor households and banks.</p></details>
+- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, we provide a temporary incentive to both open and use a savings account: saving earns raffle tickets for cash prizes. We find that 41% more accounts are opened in treatment branches than control branches during the incentive months, and the temporary two-month incentive has a lasting three-year impact on the number of deposits made at treatment branches. Prize-linked savings can thus benefit both poor households and banks.</p></details>
 - Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
 - Video: [IPA](https://www.youtube.com/watch?v=RiwTjomOdVA&feature=youtu.be&t=1952) (25 minute presentation, plus discussion and Q&A)
 
+[Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mexican Firms](https://www.dropbox.com/s/mywbxewzwrzdntq/Tax_on_Cash_deposits_Draft.pdf?raw=1) (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). 
+- <details><summary>Abstract</summary><p>The transition from cash to traceable transaction technologies promises to reduce tax evasion and illegal flows. Should governments actively encourage this transition by making cash more costly to use? We study a policy in Mexico which sought to limit cash usage by taxing the flow of new cash deposited into bank accounts. Using the tax exemption threshold and firm level bank account data, we create variation in exposure to the tax based on firms' pre-tax intensity of cash reliance. We find that the flow of cash deposits is highly elastic to the tax rate: a 1% tax leads to a 60% reduction in cash deposits. This drop in cash deposits arises principally from a reduction in total bank deposits rather than substitution towards other transaction technologies. Thus policies which impact the cost of cash through banks have large efficiency costs and appear ineffective at accelerating the adoption of digital payments.</p></details>
+- [Slides](https://www.dropbox.com/s/7e4o72j492fhjv9/Tax_on_Cash_deposits_Slides.pdf?raw=1)
+
 ### work in progress
- 
-Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mexican Firms (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). Draft coming soon.
 
 [Why Are Firms Slow to Adopt Profitable Business Practices? Evidence on the Roles of Present Bias, Forgetfulness, and Overconfidence about Memory](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Randomized control trial under way.
+Randomized control trial completed.
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
 
+<!--->
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial under way.
+--->
 
 [Price Comparison Tools in Consumer Credit Markets](https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making) (with 
 Erik Berwart, 
