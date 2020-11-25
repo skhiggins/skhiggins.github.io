@@ -69,7 +69,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 Randomized control trial completed.
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
 
-<!--->
+<!---
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial under way.
