@@ -19,11 +19,13 @@ social: true
 
 I'm an Assistant Professor of Finance at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
+<!---
 :loudspeaker: JOB OPPORTUNITY :loudspeaker:
 *I am currently hiring full-time empirical research associates*. More details and the link to apply are [here](https://kellogg.qualtrics.com/jfe/form/SV_ebXOK87Gy0wneZL); some additional details in this [thread](https://twitter.com/SeanKHiggins/status/1321925125399302145).
+--->
 
-My [research](research/) studies how technology reduces frictions in financial markets, and the effect of reducing these frictions on households and small firms. For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I study financial technology adoption and quantify the spillovers of consumers' adoption of a particular financial technology—debit cards—on both the supply and demand sides of the market. 
-My other papers and projects study FinTech, household finance, and small firms in developing countries.
+My [research](research/) studies how technology reduces barriers to financial inclusion, and the effect of reducing these barriers on households and small businesses. For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I find that when the Mexican government distributed debit cards to poor households, this led small retailers to adopt technology to accept card payments and generated spillovers to both small retailers and richer households. 
+My other papers and projects study FinTech, household finance, and small businesses in developing countries.
 
 I'm grateful to the 
 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/11/OPP1097490), 
