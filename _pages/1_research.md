@@ -54,7 +54,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 - PBCSF Award for the Best Paper in Fintech, WFA 2020
 
 [Increasing Financial Inclusion and Attracting Deposits through Prize-Linked Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, we provide a temporary incentive to both open and use a savings account: saving earns raffle tickets for cash prizes. We find that 41% more accounts are opened in treatment branches than control branches during the incentive months, and the temporary two-month incentive has a lasting three-year impact on the number of deposits made at treatment branches. Prize-linked savings can thus benefit both poor households and banks.</p></details>
+- <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, the take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, an incentive to open and use a savings account---in which saving earned raffle tickets for cash prizes---caused a 41% increase in the number of accounts opened during the incentive months. Nearly all (96%) of new accounts were opened by previously unbanked households. The temporary two-month incentive had a persistent three-year impact on the flow of deposits at treatment branches. Prize-linked savings can thus benefit both previously-unbanked households and banks.</p></details>
 - Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
 - Video: [IPA](https://www.youtube.com/watch?v=RiwTjomOdVA&feature=youtu.be&t=1952) (25 minute presentation, plus discussion and Q&A)
 
@@ -64,10 +64,11 @@ _Public Finance Review_ 42, 346-67, 2014.
 
 ### work in progress
 
-[Why Are Firms Slow to Adopt Profitable Business Practices? Evidence on the Roles of Present Bias, Forgetfulness, and Overconfidence about Memory](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+[How do firms decide whether to adopt profitable business practices?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial completed.
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
+- Take our [prediction survey](https://socialscienceprediction.org/predict/r/d94510b5b1e7415b82c1bbc5b208efb9/)
 
 <!---
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
