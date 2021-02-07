@@ -84,7 +84,9 @@ Randomized pilot completed.
 
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
-- Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
-[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/).
+- Media coverage: 
+[MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
+[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/);
+[Center for Effective Global Action](https://medium.com/center-for-effective-global-action/algorithms-and-impact-early-cega-evidence-on-digital-credit-featured-at-the-assa-ef2d13c89d4d)
 
 
