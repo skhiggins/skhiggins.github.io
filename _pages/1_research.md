@@ -76,11 +76,15 @@ Randomized control trial completed.
 Randomized control trial under way.
 --->
 
-[Price Comparison Tools in Consumer Credit Markets](https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making) (with 
+[Price Comparison Tools in Consumer Credit Markets](https://www.thinkforwardinitiative.com/stories/can-a-personalized-price-comparison-tool-improve-decision-making-in-the-consumer-market-for-personal-loans) (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
 and [Santiago Truffa](https://santiagotruffa.cl/)). 
 Randomized pilot completed.
+<!---
+initial blog:
+https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making
+--->
 
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
