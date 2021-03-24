@@ -25,7 +25,7 @@ I'm an Assistant Professor of Finance at the [Kellogg School of Management](http
 --->
 
 My [research](research/) studies how technology reduces barriers to financial inclusion, and the effect of reducing these barriers on households and small businesses. For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I find that when the Mexican government distributed debit cards to poor households, this led small retailers to adopt technology to accept card payments and generated spillovers to both small retailers and richer households. 
-My other papers and projects study FinTech, household finance, and small businesses in developing countries.
+My other papers and projects study FinTech, household finance, and small businesses in emerging markets.
 
 I teach Entrepreneurial Finance and Venture Capital to MBA students.
 
