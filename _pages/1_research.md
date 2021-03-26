@@ -21,7 +21,7 @@ https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69
 https://www.financialaccess.org/faiv/2018/1/26/cega-special-edition-a-bit-more-from-aea
 )
 	
-[Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](https://www.sciencedirect.com/science/article/pii/S0304387816300220) 
+[Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](/assets/pdf/HigginsLustig_JDE.pdf)
 (with [Nora Lustig](https://www.noralustig.org/)). 
 _Journal of Development Economics_ 122, 63-75, 2016.	
 - <details><summary>Abstract</summary><p>To analyze anti-poverty policies in tandem with the taxes used to pay for them, comparisons of poverty before and after taxes and transfers are often used. We show that these comparisons, as well as measures of horizontal equity and progressivity, can fail to capture an important aspect: that a substantial proportion of the poor are made poorer (or non-poor made poor) by the tax and transfer system. We illustrate with data from seventeen developing countries: in fifteen, the fiscal system is poverty-reducing and progressive, but in ten of these at least one-quarter of the poor pay more in taxes than they receive in transfers. We call this fiscal impoverishment, and axiomatically derive a measure of its extent. An analogous measure of fiscal gains of the poor is also derived, and we show that changes in the poverty gap can be decomposed into our axiomatic measures of fiscal impoverishment and gains.</p></details> 
