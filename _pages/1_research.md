@@ -72,7 +72,9 @@ Revise and resubmit, _American Economic Review_.
 Randomized controlled trial completed.
 - <details><summary>Abstract</summary><p>We explore the role of three behavioral biases—present bias, limited memory, and overconfidence about memory—in explaining why firms are often slow to adopt profitable business practices. In partnership with a financial technology (FinTech) company in Mexico, we randomly offer businesses that are already users of the payment technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of profits. We randomly vary the size of the fee reduction, whether the firms face a deadline to accept the offer, whether they receive a reminder, and whether we tell them in advance that they will receive a reminder. We find that firms only procrastinate, and hence the deadline only has an effect, for lower-value offers. Reminders increase take-up of the lower fee by 15% regardless of the offer's value, and anticipated reminders by an additional 7%. We conduct a survey to understand mechanisms behind the significant additional effect of the anticipated reminder relative to the unanticipated reminder, and find that receiving a reminder from the FinTech company when they had already been told they would receive a reminder increases firms' perceptions of the offer's value.</p></details>
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
+<!---
 - Take our [prediction survey](https://socialscienceprediction.org/predict/r/d94510b5b1e7415b82c1bbc5b208efb9/)
+--->
 
 <!---
 [Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
