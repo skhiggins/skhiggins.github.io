@@ -14,6 +14,10 @@ social: true
 ### email
 
 sean (dot) higgins (at) kellogg (dot) northwestern (dot) edu
+
+### office
+
+Kellogg Global Hub 4481
 ​
 ### snail mail
 
