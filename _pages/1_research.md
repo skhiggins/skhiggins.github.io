@@ -69,7 +69,7 @@ Revise and resubmit, _American Economic Review_.
 
 [Why are firms slow to adopt profitable business practices?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Randomized controlled trial completed.
+Randomized controlled trial completed. Draft coming soon.
 - <details><summary>Abstract</summary><p>We explore the role of three behavioral biases—present bias, limited memory, and overconfidence about memory—in explaining why firms are often slow to adopt profitable business practices. In partnership with a financial technology (FinTech) company in Mexico, we randomly offer businesses that are already users of the payment technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of profits. We randomly vary the size of the fee reduction, whether the firms face a deadline to accept the offer, whether they receive a reminder, and whether we tell them in advance that they will receive a reminder. We find that firms only procrastinate, and hence the deadline only has an effect, for lower-value offers. Reminders increase take-up of the lower fee by 15% regardless of the offer's value, and anticipated reminders by an additional 7%. We conduct a survey to understand mechanisms behind the significant additional effect of the anticipated reminder relative to the unanticipated reminder, and find that receiving a reminder from the FinTech company when they had already been told they would receive a reminder increases firms' perceptions of the offer's value.</p></details>
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
 
@@ -87,7 +87,8 @@ Randomized control trial under way.
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
 and [Santiago Truffa](https://santiagotruffa.cl/)). 
-Randomized pilot completed.
+Randomized controlled trial launched.
+- [RCT registration](https://www.socialscienceregistry.org/trials/8553)
 <!---
 initial blog:
 https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making
