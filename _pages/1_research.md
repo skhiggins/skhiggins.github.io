@@ -67,10 +67,10 @@ Revise and resubmit, _American Economic Review_.
 
 ### work in progress
 
-[Why are firms slow to adopt profitable business practices?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+[Why are firms slow to adopt profitable opportunities?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized controlled trial completed. Draft coming soon.
-- <details><summary>Abstract</summary><p>We explore the role of three behavioral biases—present bias, limited memory, and overconfidence about memory—in explaining why firms are often slow to adopt profitable business practices. In partnership with a financial technology (FinTech) company in Mexico, we randomly offer businesses that are already users of the payment technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of profits. We randomly vary the size of the fee reduction, whether the firms face a deadline to accept the offer, whether they receive a reminder, and whether we tell them in advance that they will receive a reminder. We find that firms only procrastinate, and hence the deadline only has an effect, for lower-value offers. Reminders increase take-up of the lower fee by 15% regardless of the offer's value, and anticipated reminders by an additional 7%. We conduct a survey to understand mechanisms behind the significant additional effect of the anticipated reminder relative to the unanticipated reminder, and find that receiving a reminder from the FinTech company when they had already been told they would receive a reminder increases firms' perceptions of the offer's value.</p></details>
+- <details><summary>Abstract</summary><p>Why are firms slow to adopt profitable opportunities? We test the role of four potential barriers: present bias, limited memory, overconfidence about memory, and a lack of trust in other firms. In partnership with a financial technology (FinTech) payments provider in Mexico, we randomly offer businesses that are already users of the payments technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of profits. We randomly vary the size of the fee reduction, whether the firms face a deadline to accept the offer, whether they receive a reminder, and whether we tell them in advance that they will receive a reminder. Reminders increase take-up of the lower fee by 18%, and anticipated reminders by an additional 7%. Deadlines do not increase take-up. We use survey data to understand mechanisms behind the significant additional effect of the anticipated reminder relative to the unanticipated reminder. Receiving an anticipated reminder from the FinTech company increases trust in the offer: it increases firms' perceptions of the offer's value and increases take-up by firms that trust advertised offers less.</p></details>
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
 
 <!---
@@ -94,11 +94,12 @@ initial blog:
 https://www.thinkforwardinitiative.com/stories/the-impact-of-price-comparison-tools-in-consumer-credit-markets-on-financial-decision-making
 --->
 
+<!---
 [Gender-Differentiated Digital Credit Algorithms Using Machine Learning](https://medium.com/center-for-effective-global-action/gender-differentiated-credit-scores-bridging-the-gender-gap-in-access-to-credit-87e040318cdb)
 (with [Joshua Blumenstock](http://www.jblumenstock.com/), [Laura Chioda](http://www.worldbank.org/en/about/people/l/laura-chioda), and [Paul Gertler](https://www.paulgertler.com/)).
 - Media coverage: 
 [MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
 [Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/);
 [Center for Effective Global Action](https://medium.com/center-for-effective-global-action/algorithms-and-impact-early-cega-evidence-on-digital-credit-featured-at-the-assa-ef2d13c89d4d)
-
+--->
 
