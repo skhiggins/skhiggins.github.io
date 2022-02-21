@@ -54,8 +54,9 @@ Revise and resubmit, _American Economic Review_.
 - Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
 - Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
 - Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- Best Paper in Corporate Finance, SFS Cavalcade North America 2020
-- PBCSF Award for the Best Paper in Fintech, WFA 2020
+- Best Paper Award, GSU-RFS FinTech Conference 
+- Best Paper in Corporate Finance, SFS Cavalcade North America 
+- PBCSF Award for the Best Paper in Fintech, WFA 
 
 [Using Lotteries to Attract Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 - <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, the take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, an incentive to open and use a savings account—in which saving earned raffle tickets for cash prizes—caused a 41% increase in the number of accounts opened during the incentive months. Nearly all (96%) of new accounts were opened by previously unbanked households. The temporary two-month incentive had a persistent three-year impact on the flow of deposits at treatment branches. Prize-linked savings can thus benefit both previously-unbanked households and banks.</p></details>
