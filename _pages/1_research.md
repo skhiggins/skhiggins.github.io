@@ -54,9 +54,9 @@ Revise and resubmit, _American Economic Review_.
 - Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
 - Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
 - Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- Best Paper Award, GSU-RFS FinTech Conference 
 - Best Paper in Corporate Finance, SFS Cavalcade North America 
-- PBCSF Award for the Best Paper in Fintech, WFA 
+- PBCSF Award for the Best Paper in FinTech, WFA 
+- Best Paper Award, GSU-RFS FinTech Conference 
 
 [Using Lotteries to Attract Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 - <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, the take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, an incentive to open and use a savings account—in which saving earned raffle tickets for cash prizes—caused a 41% increase in the number of accounts opened during the incentive months. Nearly all (96%) of new accounts were opened by previously unbanked households. The temporary two-month incentive had a persistent three-year impact on the flow of deposits at treatment branches. Prize-linked savings can thus benefit both previously-unbanked households and banks.</p></details>
@@ -69,7 +69,7 @@ Revise and resubmit, _American Economic Review_.
 
 ### work in progress
 
-[Why are firms slow to adopt profitable opportunities?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
+[Why Are Firms Slow to Adopt Profitable Opportunities?](https://medium.com/center-for-effective-global-action/weighing-the-benefits-and-drawbacks-of-e-payments-insights-from-small-businesses-in-mexico-eaff8a9575eb) 
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized controlled trial completed. Draft coming soon.
 - <details><summary>Abstract</summary><p>Why are firms often slow to adopt new profitable opportunities, even in the absence of informational frictions, fixed costs, or misaligned incentives? We explore three potential mechanisms: present bias, memory, and trust in other firms. In partnership with a financial technology (FinTech) payments provider in Mexico, we randomly offer businesses that already use the payments technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of profits. We randomly vary the size of the fee reduction, whether the firms face a deadline to accept the offer, whether they receive a reminder, and whether we tell them in advance that they will receive a reminder. While deadlines do not affect take-up, reminders increase take-up of the lower fee by 18%, and anticipated reminders by an additional 7%. The results point to limited memory in firms, but not present bias. Additional survey data suggests trust as the mechanism behind the significant additional effect of the anticipated reminder. Upon receiving an anticipated reminder from the FinTech company, firms value the offer more and accept it even if they generally distrust advertised offers.</p></details>

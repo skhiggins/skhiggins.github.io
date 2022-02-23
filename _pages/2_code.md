@@ -7,7 +7,7 @@ description:
 
 For replication code, see the [research](../research/) tab.
 
-My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide) and [Python Guide](https://github.com/skhiggins/Python_guide).
+My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide), [Python Guide](https://github.com/skhiggins/Python_guide), and [Stata Guide](https://github.com/skhiggins/Stata_guide)
 
 ### [R](https://github.com/skhiggins/tabulator)
 
