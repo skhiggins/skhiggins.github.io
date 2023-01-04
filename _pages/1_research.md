@@ -6,6 +6,16 @@ title: research
 
 ### publications
 
+[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
+Conditionally accepted, _American Economic Review_.
+- <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of one million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
+- Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
+- Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
+- Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- Best Paper in Corporate Finance, SFS Cavalcade North America 
+- PBCSF Award for the Best Paper in FinTech, WFA 
+- Best Paper Award, GSU-RFS FinTech Conference 
+
 [How Debit Cards Enable the Poor to Save More](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _Journal of Finance_ 76, 1913-1957, 2021. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards were given to cash transfer recipients who already had a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulated a savings stock equal to 2% of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms. First, debit cards reduce transaction costs of accessing money. Second, they reduce monitoring costs, which led beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
@@ -47,16 +57,6 @@ _Public Finance Review_ 42, 346-67, 2014.
 --->
 
 ### working papers
-
-[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
-Revised and resubmitted, _American Economic Review_.
-- <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of one million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
-- Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
-- Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
-- Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- Best Paper in Corporate Finance, SFS Cavalcade North America 
-- PBCSF Award for the Best Paper in FinTech, WFA 
-- Best Paper Award, GSU-RFS FinTech Conference 
 
 [Using Lotteries to Attract Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 - <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, the take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, an incentive to open and use a savings account—in which saving earned raffle tickets for cash prizes—caused a 41% increase in the number of accounts opened during the incentive months. Nearly all (96%) of new accounts were opened by previously unbanked households. The temporary two-month incentive had a persistent three-year impact on the flow of deposits at treatment branches. Prize-linked savings can thus benefit both previously-unbanked households and banks.</p></details>
