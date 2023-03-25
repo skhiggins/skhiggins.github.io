@@ -58,7 +58,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 
 ### working papers
 
-[Using Lotteries to Attract Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), [Aisling Scott](https://aislingscott.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
+[Using Lotteries to Attract Savings](/assets/pdf/GertlerHigginsScottSeira_PrizeLinkedSavings.pdf) (with [Paul Gertler](https://www.paulgertler.com/), Aisling Scott, and [Enrique Seira](https://www.enriqueseira.com/)). 
 - <details><summary>Abstract</summary><p>Despite the benefits of saving in formal financial institutions, the take-up and use of savings accounts are low among the poor. In a randomized experiment across 110 bank branches throughout Mexico, an incentive to open and use a savings account—in which saving earned raffle tickets for cash prizes—caused a 41% increase in the number of accounts opened during the incentive months. Nearly all (96%) of new accounts were opened by previously unbanked households. The temporary two-month incentive had a persistent three-year impact on the flow of deposits at treatment branches. Prize-linked savings can thus benefit both previously-unbanked households and banks.</p></details>
 - Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
 - Video: [IPA](https://www.youtube.com/watch?v=RiwTjomOdVA&feature=youtu.be&t=1952) (25 minute presentation, plus discussion and Q&A)
