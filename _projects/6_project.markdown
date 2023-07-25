@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digitized Government Transfers and Microcredit
-description: a project that redirects to another website
-img: /assets/img/microcredit_square.jpg
-redirect: https://www.poverty-action.org/study/leveraging-government-transfers-offer-low-risk-microcredit-dominican-republic
+title: Price Comparison Tools
+description: 
+img: /assets/img/pricecomp_tool.png
+redirect: https://www.socialscienceregistry.org/trials/8553
 ---

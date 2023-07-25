@@ -29,20 +29,24 @@ install.packages("tabulator")
 
 [Python Guide](https://github.com/skhiggins/Python_guide) to use with collaborators and research assistants to make Python code consistent, easier to read, transparent, and reproducible.
 
-`get_files` automates downloading files from a website using web scraping when you provide it with a url and the file extensions to scrape.
+[`get_files`](https://github.com/skhiggins/PythonTools/blob/master/crop_eps.py) automates downloading files from a website using web scraping when you provide it with a url and the file extensions to scrape.
 
-`word2pdf` automates Microsoft Word document to pdf conversion.
+[`word2pdf`](https://github.com/skhiggins/PythonTools/blob/master/word2pdf.py) automates Microsoft Word document to pdf conversion.
 
-`crop_eps` crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
+[`crop_eps`](https://github.com/skhiggins/PythonTools/blob/master/crop_eps.py) crops .eps files; useful when you can't get the cropping of a graph just right in your statistical software.
 
 ### [Stata](https://github.com/skhiggins/StataTools)
 
-To install directly through Stata:
+[Stata Guide](https://github.com/skhiggins/Stata_guide) to use with collaborators and research assistants to make Python code consistent, easier to read, transparent, and reproducible.
+
+I've written a number of Stata packages that can be installed directly through Stata:
 ```stata
 ssc install <package_name>, replace
 ```
 
+<!---
 `ceq` is a [suite of commands](https://github.com/skhiggins/CEQStataPackage) to estimate fiscal incidence following the [Commitment to Equity](https://commitmentoequity.org/) framework.
+--->
 
 `exampleobs` prints (randomly selected) example observations and optionally stores the values in a local macro. This is useful to explore possible values of a variable in your data set without being biased by the ordering of the data.
 
