@@ -24,10 +24,14 @@ I'm an Assistant Professor of Finance at the [Kellogg School of Management](http
 *I am currently hiring full-time empirical research associates*. More details and the link to apply are [here](https://kellogg.qualtrics.com/jfe/form/SV_ebXOK87Gy0wneZL); some additional details in this [thread](https://twitter.com/SeanKHiggins/status/1321925125399302145).
 --->
 
-My [research](research/) studies how technology reduces barriers to financial inclusion, and the effect of reducing these barriers on households and small firms. For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I find that when the Mexican government distributed debit cards to poor households, this led small retailers to adopt technology to accept card payments and generated spillovers to both small retailers and richer households. 
+My [research](research/) studies how technology reduces frictions in payments markets and consumer financial markets, and the effects of reducing these frictions on households and small firms in emerging economies. 
+<!---
+For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I find that when the Mexican government distributed debit cards to poor households, this led small retailers to adopt technology to accept card payments and generated spillovers to both small retailers and richer households. 
 My other papers and projects study FinTech, household finance, and small firms in emerging markets.
+--->
+Within consumer financial markets, I have a set of papers on frictions that prevent households from saving, and a second set of papers and projects on credit market frictions. My papers employ natural experiments or randomized controlled trials (RCTs) for identification, and generally use a combination of confidential (often transaction-level) administrative data and survey data.
 
-I teach Entrepreneurial Finance and Venture Capital to MBA students.
+I teach Entrepreneurial Finance and Venture Capital to MBA students. I also co-teach a PhD-level independent study on Household Finance.
 
 <!---
 I'm grateful to the 
