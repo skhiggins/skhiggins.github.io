@@ -58,8 +58,8 @@ _Public Finance Review_ 42, 346-67, 2014.
 
 ### working papers
 
-[Using Lotteries to Attract Deposits](/assets/pdf/SavingsLotteries.pdf) (with [Paul Gertler](https://www.paulgertler.com/), Aisling Scott, and [Enrique Seira](https://www.enriqueseira.com/)). 
-- <details><summary>Abstract</summary><p>Despite the importance of deposit financing for lending, banks in developing countries struggle to attract deposits. In a randomized experiment across 110 bank branches throughout Mexico, a lottery incentive based on net monthly deposits caused a 40% increase in the number of accounts opened and a 21% increase in the number of deposits during the lottery months. Nearly all new accounts (96%) were opened by households previously unbanked at any bank. The temporary two-month incentive had a persistent 2-3 year impact on the flow of deposits and stock of savings, and increased the present value of branch profits by 6%.</p></details>
+[Using Lotteries to Attract Deposits](/assets/pdf/SavingsLotteries.pdf) (with [Paul Gertler](https://www.paulgertler.com/), Aisling Scott, and [Enrique Seira](https://www.enriqueseira.com/)). [NBER Working Paper 31529](https://www.nber.org/papers/w31529)
+- <details><summary>Abstract</summary><p>Despite the importance of deposit financing for lending, banks in developing countries struggle to attract deposits. In a randomized experiment across 110 bank branches throughout Mexico, a lottery incentive based on net monthly deposits caused a 36% increase in the number of accounts opened and a 21% increase in the number of deposits during the lottery months. Nearly all new accounts (96%) were opened by households previously unbanked at any bank. The temporary two-month incentive had a persistent 2-3 year impact on the flow of deposits and stock of savings, and increased the present value of branch profits by 6%.</p></details>
 - Summary: [J-PAL](https://www.povertyactionlab.org/evaluation/impact-lottery-ticket-incentives-saving-mexico) 
 <!--- - Video: [IPA](https://www.youtube.com/watch?v=RiwTjomOdVA&feature=youtu.be&t=1952) (25 minute presentation, plus discussion and Q&A)
 --->
