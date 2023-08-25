@@ -7,7 +7,7 @@ description:
 
 For replication code, see the [research](../research/) tab.
 
-My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide), [Python Guide](https://github.com/skhiggins/Python_guide), and [Stata Guide](https://github.com/skhiggins/Stata_guide)
+My other code can be accessed on [GitHub](https://github.com/skhiggins/), including the packages I've written (described below) and an [R Guide](https://github.com/skhiggins/R_guide), [Python Guide](https://github.com/skhiggins/Python_guide), and [Stata Guide](https://github.com/skhiggins/Stata_guide).
 
 ### [R](https://github.com/skhiggins/tabulator)
 
@@ -37,7 +37,7 @@ install.packages("tabulator")
 
 ### [Stata](https://github.com/skhiggins/StataTools)
 
-[Stata Guide](https://github.com/skhiggins/Stata_guide) to use with collaborators and research assistants to make Python code consistent, easier to read, transparent, and reproducible.
+[Stata Guide](https://github.com/skhiggins/Stata_guide) to use with collaborators and research assistants to make Stata code consistent, easier to read, transparent, and reproducible.
 
 I've written a number of Stata packages that can be installed directly through Stata:
 ```stata
