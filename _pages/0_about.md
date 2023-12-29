@@ -31,7 +31,7 @@ My other papers and projects study FinTech, household finance, and small firms i
 --->
 Within consumer financial markets, I have a set of papers on frictions that prevent households from saving, and a second set of papers and projects on credit market frictions. My papers employ natural experiments or randomized controlled trials (RCTs) for identification, and generally use a combination of confidential (often transaction-level) administrative data and survey data.
 
-I teach Entrepreneurial Finance and Venture Capital to MBA students. I also co-teach a PhD-level independent study on Household Finance.
+I teach Entrepreneurial Finance and Venture Capital to MBA students, and I won the Sidney J. Levy Teaching Award for 2022-2023. <!--- I also co-teach a PhD-level independent study on Household Finance. --->
 
 <!---
 I'm grateful to the 

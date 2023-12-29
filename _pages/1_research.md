@@ -4,6 +4,8 @@ permalink: /research/
 title: research
 ---
 
+My research statement is available [here](/assets/pdf/Higgins_Professional_Statement.pdf).
+
 ### publications
 
 [Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
@@ -66,14 +68,15 @@ _Public Finance Review_ 42, 346-67, 2014.
 --->
 - [RCT registration](https://www.socialscienceregistry.org/trials/11852)
 
-[Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mexican Firms](https://www.dropbox.com/s/mywbxewzwrzdntq/Tax_on_Cash_deposits_Draft.pdf?raw=1) (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). 
-- <details><summary>Abstract</summary><p>The transition from cash to traceable transaction technologies promises to reduce tax evasion and illegal flows. Should governments actively encourage this transition by making cash more costly to use? We study a policy in Mexico which sought to limit cash usage by taxing the flow of new cash deposited into bank accounts. Using the tax exemption threshold and firm level bank account data, we create variation in exposure to the tax based on firms' pre-tax intensity of cash reliance. We find that the flow of cash deposits is highly elastic to the tax rate: a 1% tax leads to a 60% reduction in cash deposits. This drop in cash deposits arises principally from a reduction in total bank deposits rather than substitution towards other transaction technologies. Thus policies which impact the cost of cash through banks have large efficiency costs and appear ineffective at accelerating the adoption of digital payments.</p></details>
-- [Slides](https://www.dropbox.com/s/7e4o72j492fhjv9/Tax_on_Cash_deposits_Slides.pdf?raw=1)
-
 [Why Small Firms Fail to Adopt Profitable Opportunities](/assets/pdf/SmallFirmsProfitableOpportunities.pdf)
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 - <details><summary>Abstract</summary><p>Why do small firms often fail to adopt new profitable opportunities? We explore a setting in which standard economic frictions are removed but many firms still do not adopt a profitable opportunity, and study three other frictions: limited memory, present bias, and a lack of trust in other firms. In partnership with a financial technology (FinTech) company in Mexico, we randomly offer 34,000 firms that are already users of the payment technology the opportunity to be charged a lower merchant fee for each payment they receive from customers. The median value of the fee reduction is 3% of total firm profits. We randomly vary the size of the fee reduction, a deadline, a reminder, and advance notice of the reminder. While deadlines do not affect take-up, reminders increase take-up by 15%, and announced reminders by an additional 7%. Survey data help identify trust as the likely underlying mechanism behind the larger effect of the announced reminder: receiving an announced reminder increases firms' perceptions of the offer's value, and its treatment effect on take-up is stronger among firms that generally distrust advertised offers.</p></details>
 - [RCT registration](https://www.socialscienceregistry.org/trials/6540)
+
+[Towards a Cashless Economy? Evidence from the Elasticity of Cash Deposits of Mexican Firms](https://www.dropbox.com/s/mywbxewzwrzdntq/Tax_on_Cash_deposits_Draft.pdf?raw=1) (with [Pierre Bachas](https://pierrebachas.weebly.com/) and [Anders Jensen](https://www.andersditlevjensen.com/)). 
+- <details><summary>Abstract</summary><p>The transition from cash to traceable transaction technologies promises to reduce tax evasion and illegal flows. Should governments actively encourage this transition by making cash more costly to use? We study a policy in Mexico which sought to limit cash usage by taxing the flow of new cash deposited into bank accounts. Using the tax exemption threshold and firm level bank account data, we create variation in exposure to the tax based on firms' pre-tax intensity of cash reliance. We find that the flow of cash deposits is highly elastic to the tax rate: a 1% tax leads to a 60% reduction in cash deposits. This drop in cash deposits arises principally from a reduction in total bank deposits rather than substitution towards other transaction technologies. Thus policies which impact the cost of cash through banks have large efficiency costs and appear ineffective at accelerating the adoption of digital payments.</p></details>
+- [Slides](https://www.dropbox.com/s/7e4o72j492fhjv9/Tax_on_Cash_deposits_Slides.pdf?raw=1)
+
 
 ### work in progress
 <!---
@@ -86,13 +89,18 @@ _Public Finance Review_ 42, 346-67, 2014.
 Randomized control trial under way.
 --->
 
-[Price Comparison Tools in Consumer Credit Markets](https://www.thinkforwardinitiative.com/stories/can-a-personalized-price-comparison-tool-improve-decision-making-in-the-consumer-market-for-personal-loans) (with 
+Price Comparison Tools in Consumer Credit Markets (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
 and [Santiago Truffa](https://santiagotruffa.cl/)). 
 Randomized controlled trial completed; follow-up survey ongoing.
 - <details><summary>Abstract</summary><p>Consumer credit markets feature large amounts of within-borrower price dispersion in interest rates. If consumers are unaware of the extent of this price dispersion, they may shop less and take out loans at higher interest rates than they would otherwise. We conduct a randomized controlled trial (RCT) in Chile where we show 70,000 prospective borrowers a price comparison tool---a distribution of interest rates based on loans obtained by similar borrowers for similar loans---or a simple tool showing the potential cost savings from search. We also cross-randomize whether we ask participants their priors about the distribution of interest rates that banks would offer them and their expectations about the number of banks at which they will search. We find that consumers think interest rates are lower than they actually are, and the price comparison tool causes consumer loan seekers to increase their priors about the interest rate they will obtain by 49%. Consumers also underestimate price dispersion, and our price comparison tool causes them to double their estimate of dispersion. The price comparison tool did not affect the number of institutions at which consumers searched or the interest rates they obtained, but did increase their probability of taking out a loan by 5%. In contrast, asking participants their expectations about interest rates and search caused them to obtain 2% lower interest rates on consumer loans without affecting their probability of taking out a loan.</p></details>
 - [RCT registration](https://www.socialscienceregistry.org/trials/8553)
+
+Government-Guaranteed Loans Enable Firms to Maintain Employment during Cash Flow Shocks (with [Paul Gertler](https://www.paulgertler.com/), [Ana María Montoya](https://www.dii.uchile.cl/quien/ana-maria-montoya/), [Eric Parrado](https://www.iadb.org/en/who-we-are/how-we-are-organized/eric-parrado-herrera), and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research)). Randomized controlled trial completed; draft in preparation.
+- [RCT registration](https://www.socialscienceregistry.org/trials/7534)
+
+Impacts of a Consumer Credit Platform on Competition and Credit Terms (with [Xavier Giné](https://sites.google.com/site/decrgxaviergine/home), [Dean Karlan](http://deankarlan.com/), and [Jonathan Zinman](https://economics.dartmouth.edu/people/jonathan-zinman)). Piloting under way.
 
 <!---
 initial blog:
