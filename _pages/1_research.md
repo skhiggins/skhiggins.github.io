@@ -89,7 +89,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 Randomized control trial under way.
 --->
 
-Price Comparison Tools in Consumer Credit Markets (with 
+Searching with Inaccurate Priors in Consumer Credit Markets (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
 and [Santiago Truffa](https://santiagotruffa.cl/)). 
