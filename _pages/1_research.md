@@ -8,7 +8,7 @@ My research statement is available [here](/assets/pdf/Higgins_Professional_State
 
 ### publications
 
-[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](https://assets.aeaweb.org/asset-server/files/21118.pdf). 
+[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
 Forthcoming, _American Economic Review_.
 - <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of one million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
 - Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
