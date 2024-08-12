@@ -76,7 +76,7 @@ and
 Revise and resubmit, _Journal of Financial Economics_.
 - <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand access to credit to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. We also show that segmenting our machine learning model by gender can improve credit allocation fairness without a substantive effect on the model's predictive performance.</p></details>
 
-[Searching with Inaccurate Priors in Consumer Credit Markets](https://conference.nber.org/conf_papers/f206946.pdf) (with 
+[Searching with Inaccurate Priors in Consumer Credit Markets](/assets/pdf/PriceComparisonTools.pdf) (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
 and [Santiago Truffa](https://santiagotruffa.cl/)). 
