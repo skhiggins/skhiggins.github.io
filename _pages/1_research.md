@@ -94,6 +94,9 @@ and [Santiago Truffa](https://santiagotruffa.cl/)).
 - <details><summary>Abstract</summary><p>The transition from cash to traceable transaction technologies promises to reduce tax evasion and illegal flows. Should governments actively encourage this transition by making cash more costly to use? We study a policy in Mexico which sought to limit cash usage by taxing the flow of new cash deposited into bank accounts. Using the tax exemption threshold and firm level bank account data, we create variation in exposure to the tax based on firms' pre-tax intensity of cash reliance. We find that the flow of cash deposits is highly elastic to the tax rate: a 1% tax leads to a 60% reduction in cash deposits. This drop in cash deposits arises principally from a reduction in total bank deposits rather than substitution towards other transaction technologies. Thus policies which impact the cost of cash through banks have large efficiency costs and appear ineffective at accelerating the adoption of digital payments.</p></details>
 - [Slides](https://www.dropbox.com/s/7e4o72j492fhjv9/Tax_on_Cash_deposits_Slides.pdf?raw=1)
 
+Government-Backed Loans Enable Small Businesses to Maintain Employment during Cash Flow Shocks (with [Paul Gertler](https://www.paulgertler.com/), [Ana María Montoya](https://www.dii.uchile.cl/quien/ana-maria-montoya/), [Eric Parrado](https://www.iadb.org/en/who-we-are/how-we-are-organized/eric-parrado-herrera), and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research)). Email for draft.
+- [RCT registration](https://www.socialscienceregistry.org/trials/7534)
+
 
 ### work in progress
 <!---
@@ -105,9 +108,6 @@ and [Santiago Truffa](https://santiagotruffa.cl/)).
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
 Randomized control trial under way.
 --->
-
-Government-Guaranteed Loans Enable Firms to Maintain Employment during Cash Flow Shocks (with [Paul Gertler](https://www.paulgertler.com/), [Ana María Montoya](https://www.dii.uchile.cl/quien/ana-maria-montoya/), [Eric Parrado](https://www.iadb.org/en/who-we-are/how-we-are-organized/eric-parrado-herrera), and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research)). Randomized controlled trial completed; draft in preparation.
-- [RCT registration](https://www.socialscienceregistry.org/trials/7534)
 
 Impacts of a Consumer Credit Platform on Competition and Credit Terms (with [Xavier Giné](https://sites.google.com/site/decrgxaviergine/home), [Dean Karlan](http://deankarlan.com/), and [Jonathan Zinman](https://economics.dartmouth.edu/people/jonathan-zinman)). Piloting under way.
 

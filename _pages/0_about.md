@@ -17,7 +17,7 @@ news: false
 social: true
 ---
 
-I'm an Assistant Professor of Finance (promoted to untenured Associate Professor effective September 1, 2024) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [Review of Finance](https://revfin.org/) and an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/). 
+I'm an Associate Professor of Finance (without tenure) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [Review of Finance](https://revfin.org/) and an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/). 
 
 <!---
 :loudspeaker: JOB OPPORTUNITY :loudspeaker:
@@ -32,6 +32,8 @@ My other papers and projects study FinTech, household finance, and small firms i
 Within consumer financial markets, I have a set of papers on frictions that prevent households from saving, and a second set of papers and projects on credit market frictions. My papers employ natural experiments or randomized controlled trials (RCTs) for identification, and generally use a combination of confidential (often transaction-level) administrative data and survey data.
 
 I teach Entrepreneurial Finance and Venture Capital to MBA students, and I won the Sidney J. Levy Teaching Award. I was named a [Poets&Quants 2024 Best 40-Under-40 MBA Professor](https://poetsandquants.com/2024/05/18/2024-best-40-under-40-mba-professors-sean-higgins-kellogg-school-of-management-northwestern-university/). <!--- for 2022-2023. I also co-teach a PhD-level independent study on Household Finance. --->
+
+I also co-founded and co-organize the [Webinar in Finance and Development (WEFIDEV)](https://www.wefidev.com/), which hosts webinars and an annual in-person conference to enable junior researchers to share both early-stage and more-polished research on finance and development.
 
 <!---
 I'm grateful to the 
