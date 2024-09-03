@@ -9,7 +9,7 @@ My research statement is available [here](/assets/pdf/Higgins_Professional_State
 ### publications
 
 [Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
-Forthcoming, _American Economic Review_.
+_American Economic Review_ 114(11), 2024. 
 - <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of one million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
 - Summary: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins); [IPA](https://poverty-action.org/assessing-adoption-point-sale-technology-corner-stores-mexico)
 - Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
@@ -19,7 +19,7 @@ Forthcoming, _American Economic Review_.
 - Best Paper Award, GSU-RFS FinTech Conference 
 
 [How Debit Cards Enable the Poor to Save More](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
-_Journal of Finance_ 76, 1913-1957, 2021. 
+_Journal of Finance_ 76(4), 1913-1957, 2021. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards were given to cash transfer recipients who already had a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulated a savings stock equal to 2% of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms. First, debit cards reduce transaction costs of accessing money. Second, they reduce monitoring costs, which led beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
 - [Replication code](https://github.com/skhiggins/BachasGertlerHigginsSeira_JF_replication)
 - Summary: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
