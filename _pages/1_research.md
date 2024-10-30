@@ -27,20 +27,20 @@ _Journal of Finance_ 76(4), 1913-1957, 2021.
 - Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer); 
 [Market Watch](https://www.marketwatch.com/story/the-unlikely-tool-that-helps-the-poor-save-2017-03-21)
 
-[Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](/assets/pdf/BachasGertlerHigginsSeira_DigitalFinancialServices.pdf) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). _American Economic Association Papers & Proceedings_ 108, 444-448, 2018.
+[Digital Financial Services Go a Long Way: Transaction Costs and Financial Inclusion](https://www.aeaweb.org/articles?id=10.1257/pandp.20181013) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). _American Economic Association Papers & Proceedings_ 108, 444-448, 2018.
 - <details><summary>Abstract</summary><p>Debit cards reduce the travel distance to access bank accounts and can increase financial inclusion. We show that in Mexico, cash transfer beneficiaries who already received their transfers in bank accounts and subsequently received debit cards reduce their median distance to access the account from 4.8 to 1.3 kilometers. They also report being less likely to forgo important activities (childcare, work) to withdraw their transfers. Using account level data, we find a strong correlation between the reduction in travel distance and financial activity: beneficiaries facing the largest reductions in distance increase both their number of withdrawals and their savings balances.</p></details>
-- [Replication package](https://www.openicpsr.org/openicpsr/project/114434/version/V1/view)
+- [Paper PDF](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20181013) | [replication package](https://www.openicpsr.org/openicpsr/project/114434/version/V1/view)
 - Summaries of AEA session I organized: [CEGA](
 https://medium.com/center-for-effective-global-action/commitment-is-hard-59e6a69481c);
 [NYU Wagner Financial Access Initiative](
 https://www.financialaccess.org/faiv/2018/1/26/cega-special-edition-a-bit-more-from-aea
 )
 	
-[Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](/assets/pdf/HigginsLustig_JDE.pdf)
+[Can a Poverty-Reducing and Progressive Tax and Transfer System Hurt the Poor?](https://www.sciencedirect.com/science/article/pii/S0304387816300220)
 (with [Nora Lustig](https://www.noralustig.org/)). 
 _Journal of Development Economics_ 122, 63-75, 2016.	
 - <details><summary>Abstract</summary><p>To analyze anti-poverty policies in tandem with the taxes used to pay for them, comparisons of poverty before and after taxes and transfers are often used. We show that these comparisons, as well as measures of horizontal equity and progressivity, can fail to capture an important aspect: that a substantial proportion of the poor are made poorer (or non-poor made poor) by the tax and transfer system. We illustrate with data from seventeen developing countries: in fifteen, the fiscal system is poverty-reducing and progressive, but in ten of these at least one-quarter of the poor pay more in taxes than they receive in transfers. We call this fiscal impoverishment, and axiomatically derive a measure of its extent. An analogous measure of fiscal gains of the poor is also derived, and we show that changes in the poverty gap can be decomposed into our axiomatic measures of fiscal impoverishment and gains.</p></details> 
-- [Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2EIXNO)
+- [Paper PDF](https://www.sciencedirect.com/science/article/pii/S0304387816300220) | [replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2EIXNO)
 - Media coverage: [Washington Post](https://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/19/the-worlds-leading-development-economists-cant-agree-on-how-to-tackle-inequality/)
 
 <!---
