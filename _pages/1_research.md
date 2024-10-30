@@ -8,9 +8,10 @@ My research statement is available [here](/assets/pdf/Higgins_Professional_State
 
 ### publications
 
-[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). 
-_American Economic Review_ 114(11), 2024. 
-- <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of one million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
+[Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](https://www.aeaweb.org/articles?id=10.1257/aer.20201952). 
+_American Economic Review_ 114(11), 3469–3512, 2024. 
+- <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of 1 million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
+- [Paper PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20201952); [Online Appendix](https://assets.aeaweb.org/asset-server/files/21624.pdf); [presentation slides](https://assets.aeaweb.org/asset-server/files/21625.pdf)
 - [Replication package](https://www.openicpsr.org/openicpsr/project/202904/version/V1/view)
 - Summary: [VoxDev](https://voxdev.org/topic/technology-innovation/wide-ranging-benefits-fostering-financial-inclusion-mexico); [IPA](https://poverty-action.org/assessing-adoption-point-sale-technology-corner-stores-mexico); [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/fintech-adoption-and-its-spillovers-guest-post-sean-higgins)
 - Video: [SFS Cavalcade](https://iu.mediaspace.kaltura.com/media/1_qmermprc) (25 minute presentation, plus discussion and Q&A)
@@ -22,8 +23,8 @@ _American Economic Review_ 114(11), 2024.
 [How Debit Cards Enable the Poor to Save More](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _Journal of Finance_ 76(4), 1913-1957, 2021. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards were given to cash transfer recipients who already had a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulated a savings stock equal to 2% of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms. First, debit cards reduce transaction costs of accessing money. Second, they reduce monitoring costs, which led beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
+- [Paper PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021); [Online Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13021&file=jofi13021-sup-0001-InternetAppendix.pdf) 
 - [Replication package](https://github.com/skhiggins/BachasGertlerHigginsSeira_JF_replication)
-- [Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13021&file=jofi13021-sup-0001-InternetAppendix.pdf) 
 - Summary: [VoxDev](https://voxdev.org/topic/finance/digital-financial-services-go-long-way-evidence-mexico)
 - Media coverage: [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/debit-cards-helping-low-income-households-save?utm_content=bufferc5946&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer); 
 [Market Watch](https://www.marketwatch.com/story/the-unlikely-tool-that-helps-the-poor-save-2017-03-21)
