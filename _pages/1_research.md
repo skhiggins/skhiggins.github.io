@@ -76,6 +76,10 @@ and
 [Paolina Medina](https://sites.google.com/site/paolinamedinapalma/)).
 Revise and resubmit, _Journal of Financial Economics_.
 - <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand access to credit to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. We also show that segmenting our machine learning model by gender can improve credit allocation fairness without a substantive effect on the model's predictive performance.</p></details>
+- Media coverage: 
+[MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
+[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/);
+[Center for Effective Global Action](https://medium.com/center-for-effective-global-action/algorithms-and-impact-early-cega-evidence-on-digital-credit-featured-at-the-assa-ef2d13c89d4d)
 
 [Search and Negotiation with Biased Beliefs in Consumer Credit Markets](/assets/pdf/PriceComparisonTools.pdf) (with 
 Erik Berwart, 
