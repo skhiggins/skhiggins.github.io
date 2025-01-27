@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Payments
+title: Firm Adoption of Profitable Opportunities
 description: 
 img: /assets/img/izettle_square.jpg
-redirect: /assets/pdf/SmallFirmsProfitableOpportunities.pdf
+redirect: /assets/pdf/BehavioralFirmsProfitableOpportunities.pdf
 ---
