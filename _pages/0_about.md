@@ -35,8 +35,8 @@ I teach Entrepreneurial Finance and Venture Capital to MBA students, and I won t
 
 I also co-founded and co-organize the [Webinar in Finance and Development (WEFIDEV)](https://www.wefidev.com/), which hosts webinars and an annual in-person conference to enable junior researchers to share both early-stage and more-polished research on finance and development. The [__2025 WEFIDEV-RFS-CEPR Conference on Finance and Development__](https://sfs.org/wp-content/uploads/2024/09/WEFIDEV-call-for-papers-2025.pdf) features a dual-submission option with the _Review of Financial Studies_.
 
-<!---
-__Job Opportunity:__ [Dean Karlan](http://deankarlan.com/), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/index.html), and I are looking to hire two predocs in Finance and Development. We will review applications on a rolling basis, with a target initial review on __September 30, 2024__. Details [here](/assets/pdf/FINC_Fellows_2024-2025.pdf).
+__Job Opportunity:__ We are looking to hire a full-time Research Assistant fluent in both English and Spanish and with experience in R for [this project](/assets/pdf/PriceComparisonTools.pdf). The candidate can be based in Chile or remote. Details [here](/assets/pdf/FINC_Fellows_2024-2025.pdf).
+<!--- [Dean Karlan](http://deankarlan.com/), [Jacopo Ponticelli](https://www.kellogg.northwestern.edu/faculty/ponticelli/index.html), and I are looking to hire two predocs in Finance and Development. We will review applications on a rolling basis, with a target initial review on __September 30, 2024__. Details [here](/assets/pdf/FINC_Fellows_2024-2025.pdf).
 --->
 
 <!---
