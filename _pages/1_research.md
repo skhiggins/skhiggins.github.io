@@ -104,19 +104,11 @@ and [Santiago Truffa](https://santiagotruffa.cl/)).
 Government-Backed Loans Enable Small Businesses to Maintain Employment during Cash Flow Shocks (with [Paul Gertler](https://www.paulgertler.com/), [Ana María Montoya](https://gobierno.uai.cl/profesor/ana-maria-montoya/), [Eric Parrado](https://www.iadb.org/en/who-we-are/how-we-are-organized/eric-parrado-herrera), and [Raimundo Undurraga](https://sites.google.com/site/raimundoundurragar/research)). Email for draft.
 - [RCT registration](https://www.socialscienceregistry.org/trials/7534)
 
-
+<!---
 ### work in progress
-<!---
-- Take our [prediction survey](https://socialscienceprediction.org/predict/r/d94510b5b1e7415b82c1bbc5b208efb9/)
---->
-
-<!---
-[Digital Sales and Inventory Data to Assess Creditworthiness](http://cega.berkeley.edu/evidence/incentivizing-small-merchants-in-emerging-markets-to-adopt-digital-payment-technologies/) 
-(with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
-Randomized control trial under way.
---->
 
 Impacts of a Consumer Credit Platform on Competition and Credit Terms (with [Xavier Giné](https://sites.google.com/site/decrgxaviergine/home), [Dean Karlan](http://deankarlan.com/), and [Jonathan Zinman](https://economics.dartmouth.edu/people/jonathan-zinman)). Piloting under way.
+--->
 
 <!---
 initial blog:
