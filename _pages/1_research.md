@@ -75,7 +75,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 and 
 [Paolina Medina](https://sites.google.com/site/paolinamedinapalma/)).
 [NBER Working Paper 33208](https://www.nber.org/papers/w33208). 
-Revised and resubmitted, _Journal of Financial Economics_.
+Revise and resubmit (2nd round), _Journal of Financial Economics_.
 - <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand access to credit to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. Using account-by-month level data on revenues and costs, a machine learning model predicting profitability generates less profits than a model predicting default.</p></details>
 - Media coverage: 
 [MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
