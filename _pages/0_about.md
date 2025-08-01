@@ -17,7 +17,7 @@ news: false
 social: true
 ---
 
-I'm an Associate Professor of Finance (without tenure) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [_Review of Finance_](https://revfin.org/) and an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/). 
+I'm an Associate Professor of Finance (without tenure) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [_Review of Finance_](https://revfin.org/), an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/), and a Research Affiliate at the [International Growth Centre](https://www.theigc.org/). 
 
 <!---
 :loudspeaker: JOB OPPORTUNITY :loudspeaker:
