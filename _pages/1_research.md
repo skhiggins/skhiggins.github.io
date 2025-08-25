@@ -19,7 +19,7 @@ _American Economic Review_ 114(11), 3469–3512, 2024.
 - PBCSF Award for the Best Paper in FinTech, WFA 
 - Best Paper Award, GSU-RFS FinTech Conference 
 
-[How Debit Cards Enable the Poor to Save More](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
+[How Debit Cards Enable the Poor to Save More](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13021) (with [Pierre Bachas](https://pierrebachas.weebly.com/), [Paul Gertler](https://www.paulgertler.com/), and [Enrique Seira](https://www.enriqueseira.com/)). 
 _Journal of Finance_ 76(4), 1913-1957, 2021. 
 - <details><summary>Abstract</summary><p>We study an at-scale natural experiment in which debit cards were given to cash transfer recipients who already had a bank account. Using administrative account data and household surveys, we find that beneficiaries accumulated a savings stock equal to 2% of annual income after two years with the card. The increase in formal savings represents an increase in overall savings, financed by a reduction in current consumption. There are two mechanisms. First, debit cards reduce transaction costs of accessing money. Second, they reduce monitoring costs, which led beneficiaries to check their account balances frequently and build trust in the bank.</p></details>
 - [Paper PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.13021) – [Online Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjofi.13021&file=jofi13021-sup-0001-InternetAppendix.pdf) – [replication package](https://github.com/skhiggins/BachasGertlerHigginsSeira_JF_replication)
