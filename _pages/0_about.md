@@ -17,10 +17,12 @@ news: false
 social: true
 ---
 
-I'm an Associate Professor of Finance (without tenure) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [_Review of Finance_](https://revfin.org/), an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/), and a Research Affiliate at the [International Growth Centre](https://www.theigc.org/). 
+I'm an Associate Professor of Finance (without tenure) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University. I am also an Associate Editor at the [_Review of Finance_](https://revfin.org/), a Faculty Research Fellow at the [National Bureau of Economic Research](https://www.nber.org/people/sean_higgins?page=1&perPage=50), an Affiliated Professor at the [MIT Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/), and a Research Affiliate at the [International Growth Centre](https://www.theigc.org/). 
 
+<!---
 :loudspeaker: JOB OPPORTUNITY :loudspeaker:
 *I am currently hiring a part-time or full-time research assistant in Mexico City*. More details are [here](/assets/pdf/IDE_ra_call.pdf).
+--->
 
 My [research](research/) studies how technology reduces frictions in payments markets and consumer financial markets, and the effects of reducing these frictions on households and small firms in emerging economies. 
 <!---
