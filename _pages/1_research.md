@@ -8,6 +8,19 @@ My research statement is available [here](/assets/pdf/Higgins_Professional_State
 
 ### publications
 
+[FinTech Lending to Borrowers with No Credit History](/assets/pdf/ChiodaGertlerHigginsMedina_FinTechLendingToBorrowersWithNoCreditHistory.pdf) 
+(with Laura Chioda, 
+[Paul Gertler](https://www.paulgertler.com/),
+and 
+[Paolina Medina](https://sites.google.com/site/paolinamedinapalma/)).
+[NBER Working Paper 33208](https://www.nber.org/papers/w33208). 
+Conditionally accepted, _Journal of Financial Economics_.
+- <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand credit access to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. Using account-by-month level data on revenues and costs, a machine learning model predicting profits generates similar profits as a model predicting default.</p></details>
+- Media coverage: 
+[MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
+[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/);
+[Center for Effective Global Action](https://medium.com/center-for-effective-global-action/algorithms-and-impact-early-cega-evidence-on-digital-credit-featured-at-the-assa-ef2d13c89d4d)
+
 [Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](https://www.aeaweb.org/articles?id=10.1257/aer.20201952). 
 _American Economic Review_ 114(11), 3469–3512, 2024. 
 - <details><summary>Abstract</summary><p>Do coordination failures constrain financial technology adoption? Exploiting the Mexican government's rollout of 1 million debit cards to poor households from 2009--2012, I examine responses on both sides of the market, and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21% increase in other consumers' card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13% of their supermarket consumption to small retailers, whose sales and profits increased.</p></details>
@@ -68,19 +81,6 @@ _Public Finance Review_ 42, 346-67, 2014.
 <!--- - Video: [IPA](https://www.youtube.com/watch?v=RiwTjomOdVA&feature=youtu.be&t=1952) (25 minute presentation, plus discussion and Q&A)
 --->
 - [RCT registration](https://www.socialscienceregistry.org/trials/11852)
-
-[FinTech Lending to Borrowers with No Credit History](/assets/pdf/ChiodaGertlerHigginsMedina_FinTechLendingToBorrowersWithNoCreditHistory.pdf) 
-(with Laura Chioda, 
-[Paul Gertler](https://www.paulgertler.com/),
-and 
-[Paolina Medina](https://sites.google.com/site/paolinamedinapalma/)).
-[NBER Working Paper 33208](https://www.nber.org/papers/w33208). 
-Revised and resubmitted (2nd round), _Journal of Financial Economics_.
-- <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand credit access to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. Using account-by-month level data on revenues and costs, a machine learning model predicting profits generates similar profits as a model predicting default.</p></details>
-- Media coverage: 
-[MIT Technology Review](https://www.technologyreview.com/s/614721/theres-an-easy-way-to-make-lending-fairer-for-women-trouble-is-its-illegal/); 
-[Financial Alliance for Women](https://financialallianceforwomen.org/news-events/gender-differentiated-credit-scoring-a-potential-game-changer-for-women/);
-[Center for Effective Global Action](https://medium.com/center-for-effective-global-action/algorithms-and-impact-early-cega-evidence-on-digital-credit-featured-at-the-assa-ef2d13c89d4d)
 
 [Do Behavioral Frictions Prevent Firms from Adopting Profitable Opportunities?](/assets/pdf/BehavioralFirmsProfitableOpportunities.pdf)
 (with [Paul Gertler](https://www.paulgertler.com/), [Ulrike Malmendier](https://eml.berkeley.edu/~ulrike/), and [Waldo Ojeda](https://waldotekampa.me/)). 
