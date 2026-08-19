@@ -92,7 +92,7 @@ _Public Finance Review_ 42, 346-67, 2014.
 [Search and Negotiation with Biased Beliefs in Consumer Credit Markets](/assets/pdf/PriceComparisonTools.pdf) (with 
 Erik Berwart, 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/),
-and [Santiago Truffa](https://santiagotruffa.cl/)). Submitted.
+and [Santiago Truffa](https://santiagotruffa.cl/)). [NBER Working Paper 35605](https://www.nber.org/papers/w35605). Submitted.
 - <details><summary>Abstract</summary><p>How do biased beliefs about the interest rate distribution affect search, negotiation, and loan terms in consumer credit markets? In collaboration with Chile's financial regulator, we conducted a randomized controlled trial with 112,063 loan seekers. Randomly eliciting beliefs about interest rates led participants to search more and obtain lower rates. Most participants underestimated both interest rate levels and dispersion. Showing them a price comparison tool we built using administrative data on the universe of consumer loans caused them to update their beliefs, negotiate more, obtain lower rates without searching more, and be more likely to take out a loan.</p></details>
 - Summary: [IPA](https://poverty-action.org/can-interest-rate-comparison-tool-aid-loan-seekers-chile)
 - [RCT registration](https://www.socialscienceregistry.org/trials/8553)
