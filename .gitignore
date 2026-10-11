@@ -1,0 +1,14 @@
+.sass-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+Gemfile.lock
+
+al-folio/*
+folio/* 
+scratch/*
+
+cv/*
+
+.claude/memory/
+.claude/settings.local.json
