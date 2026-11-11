@@ -14,7 +14,7 @@ My research statement is available [here](/assets/pdf/Higgins_Professional_State
 and 
 [Paolina Medina](https://sites.google.com/site/paolinamedinapalma/)).
 [NBER Working Paper 33208](https://www.nber.org/papers/w33208). 
-Conditionally accepted, _Journal of Financial Economics_.
+Forthcoming, _Journal of Financial Economics_.
 - <details><summary>Abstract</summary><p>Despite the promise of FinTech lending to expand credit access to populations without a formal credit history, FinTech lenders primarily lend to applicants with a formal credit history and rely on conventional credit bureau scores as an input to their algorithms. Using data from a large FinTech lender in Mexico, we show that alternative data from digital transactions through a delivery app are effective at predicting creditworthiness for borrowers with no credit history. Using account-by-month level data on revenues and costs, a machine learning model predicting profits generates similar profits as a model predicting default.</p></details>
 - [Ungated PDF](https://seankhiggins.com/assets/pdf/ChiodaGertlerHigginsMedina_FinTechLendingToBorrowersWithNoCreditHistory.pdf) – [replication package](https://data.mendeley.com/datasets/yjvpj8z67v/1)
 - Media coverage: 

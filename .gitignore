@@ -8,7 +8,7 @@ al-folio/*
 folio/* 
 scratch/*
 
-cv/*
+cv/additional_grants.txt
 
 .claude/memory/
 .claude/settings.local.json
