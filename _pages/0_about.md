@@ -29,7 +29,7 @@ My [research](research/) studies how technology reduces frictions in payments ma
 For example, in [one paper](assets/pdf/higgins_FinancialTechnologyAdoption.pdf) I find that when the Mexican government distributed debit cards to poor households, this led small retailers to adopt technology to accept card payments and generated spillovers to both small retailers and richer households. 
 My other papers and projects study FinTech, household finance, and small firms in emerging markets.
 --->
-Within consumer financial markets, I have a set of papers on frictions that prevent households from saving, and a second set of papers and projects on credit market frictions. My papers employ natural experiments or randomized controlled trials (RCTs) for identification, and generally use a combination of confidential (often transaction-level) administrative data and survey data.
+Within consumer financial markets, I have a set of papers on frictions that prevent households from saving, and a second set of papers on credit market frictions. My papers employ natural experiments or randomized controlled trials (RCTs) for identification, and typically use a combination of confidential administrative data and survey data to test predictions from economic theory.
 
 I teach Entrepreneurial Finance and Venture Capital to MBA students, and I won the Sidney J. Levy Teaching Award. I was named a [Poets&Quants 2024 Best 40-Under-40 MBA Professor](https://poetsandquants.com/2024/05/18/2024-best-40-under-40-mba-professors-sean-higgins-kellogg-school-of-management-northwestern-university/). <!--- for 2022-2023. I also co-teach a PhD-level independent study on Household Finance. --->
 
